@@ -3,6 +3,6 @@
 Here you find the meeting notes taken during the project.
 
 ```dataview
-TABLE date 
+TABLE date as Date
 FROM #meeting 
 ```
