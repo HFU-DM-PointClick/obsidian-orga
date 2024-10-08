@@ -2,7 +2,4 @@
 
 Here you find the meeting notes taken during the project.
 
-```dataview
-TABLE date as Date
-FROM #meeting 
-```
+[[meeting01]] Kick-off on October 8th.
