@@ -1,13 +1,11 @@
 ---
-draft: true 
-date: 2024-10-08 
-slug: hello-world
+draft: false
+date: 2024-10-08
+slug: meeting
 categories:
-  - Hello
-  - World
+  - MeetingNotes
 tags:
-  - template
-  - how-to
+  - meeting
 ---
 
 
