@@ -8,11 +8,15 @@ kanban-plugin: board
 
 
 
+## ToDo
+
+
+
 ## In Progress
 
 - [ ] Planung Gamer Abend oder Vorstelung
 - [ ] Übersicht Referenzen bzw. Sammlung vorbereiten
-- [ ] Technische Aspekte
+- [ ] [[Technische Aspekte]]
 
 
 ## Need Help
@@ -31,6 +35,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false]}
 ```
 %%

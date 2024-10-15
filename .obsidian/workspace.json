@@ -20,6 +20,7 @@
                     false,
                     false,
                     false,
+                    false,
                     false
                   ]
                 }
@@ -156,6 +157,18 @@
   },
   "active": "48a8e11373f2823f",
   "lastOpenFiles": [
+    "Technische Aspekte.md",
+    "docs/Management & Planning/Backlog Kanban Board.md",
+    "docs/Management & Planning/To-Do list.md",
+    "docs/zz_Features/Text Formatting.md",
+    "docs/zz_Features/LaTeX Math Support.md",
+    "docs/zz_Features/Mermaid Diagrams.md",
+    "docs/zz_Features/Helpful commands.md",
+    "docs/zzz_Assets/2021-11-22-22-52-49.png",
+    "docs/zzz_Assets/2021-11-22-22-54-02.png",
+    "docs/zzz_Assets/Pasted image 20241013164010.png",
+    "docs/_Game Overview/Details about the game.md",
+    "docs/Management & Planning/Kanban.md",
     "docs/Inspirationen/Serien.md",
     "docs/Inspirationen/Podcasts.md",
     "docs/Inspirationen/Mythen.md",
@@ -170,9 +183,7 @@
     "docs/Point-and-Click Technical Overview/Technical details.md",
     "docs/Point-and-Click Technical Overview/Comparison of Engines.md",
     "docs/Point-and-Click Technical Overview",
-    "docs/Management & Planning/Kanban.md",
     "docs/Management & Planning/Meetings/meeting01.md",
-    "docs/Management & Planning/Backlog Kanban Board.md",
     "docs/Code & Dev Notes/Bugs & Fixes.md"
   ]
 }
