@@ -18,4 +18,6 @@ All those things make up a character's unique personality and make them who they
 
 For a good story, you also need a conflict, mostly of interest, like, character wants to go home but a dragon blocks his path so he needs to train to defeat it or something. Can be very simple, but needs to capture audience.
 
+Even more interesting story if you add a character with opposing goals/knowledge
+F. ex. a guy forced to work at a ghost hunter office but doesn’t believe in ghosts paired up with a supernatural entity who wants to keep humans from finding out about the supernatural
 
