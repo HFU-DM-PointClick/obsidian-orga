@@ -1,6 +1,6 @@
 
 ## Tutorials & Sources
  
-- [Unity Learn](https://learn.unity.com): Offizielle Unity-Tutorials und -Anleitungen. 
-- [Godot Docs](https://docs.godotengine.org): Umfangreiche Dokumentation für Godot.
-- [Game Engines](https://enginesdatabase.com/): Verschiedenste Game Engines
+- [Unity Learn](https://learn.unity.com): Official Unity tutorials
+- [Godot Docs](https://docs.godotengine.org): Documentation for Godot
+- [Game Engines](https://enginesdatabase.com/): Multiple Game Engines
