@@ -11,19 +11,11 @@
             "id": "48a8e11373f2823f",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "docs/Management & Planning/Backlog Kanban Board.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "docs/Characters/Character creation.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -93,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Management & Planning/Backlog Kanban Board.md",
+                "file": "docs/Characters/Character creation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Management & Planning/Backlog Kanban Board.md",
+                "file": "docs/Characters/Character creation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Management & Planning/Backlog Kanban Board.md"
+                "file": "docs/Characters/Character creation.md"
               }
             }
           }
@@ -157,8 +149,9 @@
   },
   "active": "48a8e11373f2823f",
   "lastOpenFiles": [
-    "Technische Aspekte.md",
     "docs/Management & Planning/Backlog Kanban Board.md",
+    "docs/Characters/Character creation.md",
+    "Technische Aspekte.md",
     "docs/Management & Planning/To-Do list.md",
     "docs/zz_Features/Text Formatting.md",
     "docs/zz_Features/LaTeX Math Support.md",
