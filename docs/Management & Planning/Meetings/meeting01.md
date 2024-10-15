@@ -65,10 +65,10 @@ Dienstag, 15.10.2024 im N-Bau N0.04 (Optiklabor)
 
 ### Aufgaben
 
-- [ ] Einarbeitung Obsidian (alle)
-- [ ] Festlegung Obsidian Struktur (Pierre)
-- [ ] Kanban Board + Backlog für Planning (Daniel)
-- [ ] Übersicht Referenzen bzw. Sammlung vorbereiten (Mareike)
-- [ ] Technische Aspekte (Agon)
+- [x] Einarbeitung Obsidian (alle)
+- [x] Festlegung Obsidian Struktur (Pierre)
+- [x] Kanban Board + Backlog für Planning (Daniel)
+- [x] Übersicht Referenzen bzw. Sammlung vorbereiten (Mareike)
+- [x] Technische Aspekte (Agon)
 - [ ] Planung Gamer Abend oder Vorstellung (Lukas)
 - [x] Kommunikation über Discord Server (Lukas)
