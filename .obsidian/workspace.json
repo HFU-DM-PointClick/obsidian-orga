@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Characters/Character creation.md",
+                "file": "docs/Inspirationen/Podcasts.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Characters/Character creation.md",
+                "file": "docs/Inspirationen/Podcasts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Characters/Character creation.md",
+                "file": "docs/Inspirationen/Podcasts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Characters/Character creation.md"
+                "file": "docs/Inspirationen/Podcasts.md"
               }
             }
           }
@@ -149,8 +149,8 @@
   },
   "active": "48a8e11373f2823f",
   "lastOpenFiles": [
-    "docs/Management & Planning/Backlog Kanban Board.md",
     "docs/Characters/Character creation.md",
+    "docs/Management & Planning/Backlog Kanban Board.md",
     "Technische Aspekte.md",
     "docs/Management & Planning/To-Do list.md",
     "docs/zz_Features/Text Formatting.md",
