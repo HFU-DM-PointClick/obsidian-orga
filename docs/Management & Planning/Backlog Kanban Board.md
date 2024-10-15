@@ -11,7 +11,6 @@ kanban-plugin: board
 ## In Progress
 
 - [ ] Planung Gamer Abend oder Vorstelung
-- [ ] Einarbeitung Obsidian (Alle)
 - [ ] Übersicht Referenzen bzw. Sammlung vorbereiten
 - [ ] Technische Aspekte
 
@@ -22,6 +21,7 @@ kanban-plugin: board
 
 ## Complete
 
+- [ ] Einarbeitung Obsidian (Alle)
 - [ ] Kanban Board
 - [ ] Festlegung Obsidian Strucktur
 - [ ] Discord Server
