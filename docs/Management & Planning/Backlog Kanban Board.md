@@ -12,6 +12,7 @@ kanban-plugin: board
 
 - [ ] Add links to [[meeting03 22.10.]]
 - [ ] Fill [[what if?]] pages
+- [ ] Clarify version control (workspace.json) Uwe
 
 
 ## In Progress

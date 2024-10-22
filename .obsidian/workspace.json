@@ -11,11 +11,19 @@
             "id": "3e32d1911421674c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "docs/Management & Planning/Meetings/meeting03 22.10..md",
-                "mode": "source",
-                "source": false
+                "file": "docs/Management & Planning/Backlog Kanban Board.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
               }
             }
           }
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Management & Planning/Meetings/meeting03 22.10..md",
+                "file": "docs/Management & Planning/Backlog Kanban Board.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Management & Planning/Meetings/meeting03 22.10..md",
+                "file": "docs/Management & Planning/Backlog Kanban Board.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Management & Planning/Meetings/meeting03 22.10..md"
+                "file": "docs/Management & Planning/Backlog Kanban Board.md"
               }
             }
           }
@@ -149,8 +157,8 @@
   },
   "active": "3e32d1911421674c",
   "lastOpenFiles": [
-    "docs/Inspirationen/Podcasts.md",
     "docs/Management & Planning/Meetings/meeting03 22.10..md",
+    "docs/Inspirationen/Podcasts.md",
     "docs/Management & Planning/What if?/what if?.md",
     "docs/Management & Planning/What if?/wi_Agon.md",
     "docs/Management & Planning/Backlog Kanban Board.md",
