@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0489e1f6ba18b38a",
+        "id": "1bd40bd5c9591e7d",
         "type": "tabs",
         "children": [
           {
-            "id": "48a8e11373f2823f",
+            "id": "132d924b53dc4839",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Inspirationen/Podcasts.md",
+                "file": "docs/Management & Planning/Meetings/meeting03 22.10..md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Inspirationen/Podcasts.md",
+                "file": "docs/Management & Planning/Meetings/meeting03 22.10..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Inspirationen/Podcasts.md",
+                "file": "docs/Management & Planning/Meetings/meeting03 22.10..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Inspirationen/Podcasts.md"
+                "file": "docs/Management & Planning/Meetings/meeting03 22.10..md"
               }
             }
           }
@@ -147,9 +147,13 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "48a8e11373f2823f",
+  "active": "132d924b53dc4839",
   "lastOpenFiles": [
+    "docs/Management & Planning/Meetings/meeting01 8.10..md",
+    "docs/Management & Planning/Meetings/meeting02 15.10..md",
+    "docs/Management & Planning/Meetings/meeting03 22.10..md",
     "docs/Characters/Character creation.md",
+    "docs/Point-and-Click Technical Overview/Tools & Resources/Game Engines.md",
     "docs/Management & Planning/Backlog Kanban Board.md",
     "Technische Aspekte.md",
     "docs/Management & Planning/To-Do list.md",
@@ -171,12 +175,10 @@
     "docs/Inspirationen/Bücher.md",
     "docs/Inspirationen",
     "docs/Point-and-Click Technical Overview/Tools & Resources/Tutorials & Sources.md",
-    "docs/Point-and-Click Technical Overview/Tools & Resources/Game Engines.md",
     "docs/Point-and-Click Technical Overview/Tools & Resources",
     "docs/Point-and-Click Technical Overview/Technical details.md",
     "docs/Point-and-Click Technical Overview/Comparison of Engines.md",
     "docs/Point-and-Click Technical Overview",
-    "docs/Management & Planning/Meetings/meeting01.md",
     "docs/Code & Dev Notes/Bugs & Fixes.md"
   ]
 }

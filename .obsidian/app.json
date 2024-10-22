@@ -1,3 +1,4 @@
 {
-  "attachmentFolderPath": "docs/zzz_Assets"
+  "attachmentFolderPath": "docs/zzz_Assets",
+  "alwaysUpdateLinks": true
 }

@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2024-10-08
+date: 2024-10-15
 slug: meeting
 categories:
   - MeetingNotes
