@@ -10,13 +10,12 @@ kanban-plugin: board
 
 ## ToDo
 
+- [ ] Add links to [[meeting03 22.10.]]
+- [ ] Fill [[what if?]] pages
 
 
 ## In Progress
 
-- [ ] Planung Gamer Abend oder Vorstelung
-- [ ] Übersicht Referenzen bzw. Sammlung vorbereiten
-- [ ] [[Technische Aspekte]]
 
 
 ## Need Help
@@ -25,6 +24,8 @@ kanban-plugin: board
 
 ## Complete
 
+- [ ] Übersicht Referenzen bzw. Sammlung vorbereiten
+- [ ] Planung Gamer Abend oder Vorstelung
 - [ ] Einarbeitung Obsidian (Alle)
 - [ ] Kanban Board
 - [ ] Festlegung Obsidian Strucktur

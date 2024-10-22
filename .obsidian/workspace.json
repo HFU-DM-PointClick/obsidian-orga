@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "132d924b53dc4839",
+            "id": "3e32d1911421674c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -147,15 +147,23 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "132d924b53dc4839",
+  "active": "3e32d1911421674c",
   "lastOpenFiles": [
-    "docs/Management & Planning/Meetings/meeting01 8.10..md",
-    "docs/Management & Planning/Meetings/meeting02 15.10..md",
+    "docs/Inspirationen/Podcasts.md",
     "docs/Management & Planning/Meetings/meeting03 22.10..md",
-    "docs/Characters/Character creation.md",
-    "docs/Point-and-Click Technical Overview/Tools & Resources/Game Engines.md",
+    "docs/Management & Planning/What if?/what if?.md",
+    "docs/Management & Planning/What if?/wi_Agon.md",
     "docs/Management & Planning/Backlog Kanban Board.md",
     "Technische Aspekte.md",
+    "docs/Management & Planning/What if?/wi_Daniel.md",
+    "docs/Management & Planning/What if?/wi_Pierre.md",
+    "docs/Management & Planning/What if?/wi_Lukas.md",
+    "docs/Management & Planning/What if?/wi_Mareike.md",
+    "docs/Management & Planning/What if?",
+    "docs/Management & Planning/Meetings/meeting02 15.10..md",
+    "docs/Management & Planning/Meetings/meeting01 8.10..md",
+    "docs/Characters/Character creation.md",
+    "docs/Technical Overview/Tools & Resources/Game Engines.md",
     "docs/Management & Planning/To-Do list.md",
     "docs/zz_Features/Text Formatting.md",
     "docs/zz_Features/LaTeX Math Support.md",
@@ -167,18 +175,12 @@
     "docs/_Game Overview/Details about the game.md",
     "docs/Management & Planning/Kanban.md",
     "docs/Inspirationen/Serien.md",
-    "docs/Inspirationen/Podcasts.md",
     "docs/Inspirationen/Mythen.md",
     "docs/Inspirationen/Gedanken zu Dingen, an die man sich erinnern möchte.md",
     "docs/Inspirationen/Games.md",
     "docs/Inspirationen/Filme.md",
-    "docs/Inspirationen/Bücher.md",
     "docs/Inspirationen",
-    "docs/Point-and-Click Technical Overview/Tools & Resources/Tutorials & Sources.md",
-    "docs/Point-and-Click Technical Overview/Tools & Resources",
-    "docs/Point-and-Click Technical Overview/Technical details.md",
-    "docs/Point-and-Click Technical Overview/Comparison of Engines.md",
-    "docs/Point-and-Click Technical Overview",
-    "docs/Code & Dev Notes/Bugs & Fixes.md"
+    "docs/Technical Overview/Tools & Resources",
+    "docs/Technical Overview"
   ]
 }
