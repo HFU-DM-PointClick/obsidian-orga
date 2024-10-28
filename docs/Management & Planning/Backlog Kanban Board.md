@@ -11,7 +11,7 @@ kanban-plugin: board
 ## ToDo
 
 - [ ] Add links to [[meeting03 22.10.]]
-- [ ] Fill [[what if?]] pages
+- [ ] Fill [[what if]] pages
 - [ ] Clarify version control (workspace.json) Uwe
 
 
