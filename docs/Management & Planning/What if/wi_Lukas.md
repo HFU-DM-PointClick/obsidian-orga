@@ -1,0 +1,14 @@
+# Game in General
+Develop an immersive 2D point-and-click horror mystery adventure game, with good narrative and atmospheric tension. The gameplay will feature an intricately designed world where players must explore, investigate, and survive through a series of challenging encounters, all while maintaining their character's mental and physical wellbeing. At its core, the game will blend exploration and puzzle-solving with a unique combat and sanity system that raises the stakes as players delve deeper into the unknown. A minimum of one fully realized, playable case will allow players to experience a complete mystery from beginning to end, with multiple endings to reflect the choices they make. As development progresses, additional cases and endings may be introduced to expand the story and enhance replayability.
+
+
+# Worldbuildng and Storycreation
+Craft a dark, atmospheric setting that pulls players into a small, secluded town filled with a palpable sense of unease and mystery. The town should contain a  hidden secrets, and unique landmarks that contribute to an immersive experience. The story will be driven by player choices, creating a narrative that unfolds based on the paths they choose. Through exploration, players will uncover sinister secrets and connect with a range of memorable NPCs. The town itself will act as both a refuge and a haunting playground, adding tension as players walk a fine line between safety and danger. The overarching plot will explore themes of psychological horror  and the nature of reality, building a disturbing yet engaging world that keeps players returning for more.
+
+# Character Design 
+
+# Visuals
+Create visually striking pixel art that captures the unsettling atmosphere of the game world. The art style will use a cold, limited color palette to convey a sense of dread and isolation. The design will lean into shadowy, muted hues that contrast with small, vivid details to guide the player’s focus and provide subtle visual storytelling. The overall look will evoke a classic horror aesthetic, using lighting, shadows, and textures to create depth and enhance the mood. The game's visual tone will emphasize the eerie and surreal, enhancing the mystery and horror of each scene without relying on excessive gore or jump scares.
+
+# Sounddesign
+Develop a nuanced soundscape that complements and amplifies the game's dark atmosphere. Original soundtracks and ambient effects will dynamically match the pacing and mood of different scenes, using a blend of haunting melodies, low drones, and unsettling sound effects to heighten tension. Sounds will reflect the protagonist's inner turmoil, shifting and distorting in response to their sanity level.
