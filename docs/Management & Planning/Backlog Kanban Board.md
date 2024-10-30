@@ -11,8 +11,8 @@ kanban-plugin: board
 ## ToDo
 
 - [ ] Add links to [[meeting03 22.10.]]
-- [ ] Fill [[what if]] pages
-- [ ] Clarify version control (workspace.json) Uwe
+- [ ] Write first case (tutorial)
+- [ ] Check if LLMs can create further cases
 
 
 ## In Progress
@@ -21,6 +21,7 @@ kanban-plugin: board
 
 ## Need Help
 
+- [ ] Fill [[what if]] pages
 
 
 ## Complete
@@ -31,6 +32,7 @@ kanban-plugin: board
 - [ ] Kanban Board
 - [ ] Festlegung Obsidian Strucktur
 - [ ] Discord Server
+- [ ] Clarify version control (workspace.json) Uwe
 
 
 

@@ -1,6 +1,6 @@
 # Game in general
 
-By the end of the year, we aim to have a playable 2D point-and-click horror game featuring multiple endings based on the players decisions, along with all the essential must haves. The should haves and could haves are optional. AI should have the capability to influence item spawning probabilities, leading to unexpected twists and enhancing replayability. Additionally, we could have a system where player choices affect not just the storyline, but also the game environment, creating a more intense experience. The fights are turn based.
+By the end of the year, we have a playable 2D point-and-click horror game featuring multiple endings based on the players decisions, along with all the essential must haves. The should haves and could haves are optional. AI should have the capability to influence item spawning probabilities, leading to unexpected twists and enhancing replayability. Additionally, we could have a system where player choices affect not just the storyline, but also the game environment, creating a more intense experience. The fights are turn based.
 
 # Audio
 
