@@ -1,12 +1,12 @@
 A Functional game with atleast one Ending so that you have something playable
 
-A Game that isnt to complex but still gives you the satisfaction and is Fun to play (you shouldn´t feel forced to play it)
+A Game that isn´t to complex but still gives you the satisfaction and is Fun to Play (you shouldn´t feel forced to Play it)
 
-delivering a good Atmos so it is easy for the player to feel included in the story and you don´t notice the time.
+delivering a good Atmos so it is easy for the Player to feel included in the Story and you don´t notice the time.
 
-Emmersiv Audio and sound design so that the music can reinforce the feeling for the current location where the player is in and deliver the spine chilling atmospher
+Immersiv Audio and Sound design so that the Music can reinforce the Feeling for the current Location where the Player is in and deliver the spine chilling atmospher
 
-fitting visuals to the story that represent the game asthetic and current location / action
+Fitting visuals to the Story that represent the game asthetic and current Location / Action
 
-easy to follow story (you don´t get lost easy in the plot)
+easy to follow Story (you don´t get lost easy in the Plot)
 
