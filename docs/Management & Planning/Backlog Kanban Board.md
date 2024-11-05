@@ -6,26 +6,37 @@ kanban-plugin: board
 
 ## Backlog
 
+- [ ] Find a name for the main character
+- [ ] Define the dialog system (technical)
+- [ ] Define a fighting system (technical)
+- [ ] Add sound
 
 
 ## ToDo
 
-- [ ] Add links to [[meeting03 22.10.]]
-- [ ] Write first case (tutorial)
-- [ ] Check if LLMs can create further cases
+- [ ] Set up a repository for the game (Lukas)
+- [ ] Install Godot and get started and decide between C# and GDscript (alle)
+- [ ] Write a readme for the installation (Uwe shall be able to test each week)
+	(Pierre)
+- [ ] Implement the entry screen with a menu (Agon)
+- [ ] Draw some images for the first scenes (Mareike)
+- [ ] Make parts of the image clickable (Daniel)
 
 
 ## In Progress
 
+- [ ] Add links to [[meeting03 22.10.]]
 
 
 ## Need Help
 
-- [ ] Fill [[what if]] pages
 
 
 ## Complete
 
+- [ ] Check if LLMs can create further cases
+- [ ] Fill [[what if]] pages
+- [ ] Write first case (tutorial)
 - [ ] Übersicht Referenzen bzw. Sammlung vorbereiten
 - [ ] Planung Gamer Abend oder Vorstelung
 - [ ] Einarbeitung Obsidian (Alle)

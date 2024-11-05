@@ -11,7 +11,7 @@ tags:
 
 # Meeting notes
 
-Meeting am 22.10.24 14:30
+Meeting am 29.10.24 14:30
 
 
 ## Ort und Zeit für das nächste Meeting festlegen
