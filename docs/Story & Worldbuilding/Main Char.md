@@ -1,5 +1,5 @@
 
-War Polizist, wegen Stress, PTSD oder so, und Übernatürlicher Begegnung mit Job (Profiler) aufgehört
+War Polizist, wegen Stress, PTSD oder so, und Übernatürlicher Begegnung mit Job aufgehört
 (maybe (Ex-)Alkoholiker)
 
 Background:
