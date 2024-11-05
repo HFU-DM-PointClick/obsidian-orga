@@ -32,11 +32,14 @@ Grafische Inspirationen:
 - Junji Ito --> World of Horror basiert darauf
 - https://de.wikipedia.org/wiki/Call_of_Cthulhu_(Rollenspiel) --> Umsetzung bei Pegasus
 - Warhammer Fraktion Tyraniden
+- (https://www.warhammer.com/en-GB/shop/warhammer-40000/xenos-armies/tyranids)
 - Zergs in StarCraft
+- (https://www.youtube.com/watch?v=D5HXVlJgXMQ)
 - Murder Drones
 - Amazing Digital Circus
 - World of Horror
 - Project Zomboid --> isometrische Welt
+- https://store.steampowered.com/app/108600/Project_Zomboid/
 
 Erzählerische Inspirationen:
 - H.P. Lovecraft
@@ -49,16 +52,21 @@ Spielerische Inspiration
 	- Geistige Stabilität als Maß für Überlebensfähigkeit
 	- Langsam einsetzender Wahnsinn hat Einfluss auf die Kontrolle
 - Diablo II
+- (https://diablo2.blizzard.com/de-de/)
 - Indiana Jones (in den Katakomben)
+- (https://www.gog.com/de/game/indiana_jones_and_the_last_crusade)
+- (https://images.gog-statics.com/6ac5aa79c9d0938e15f6975e750e8efeb5bc0da0d08d4d553512fd5e56440908_product_card_v2_mobile_slider_639.jpg)
 - Bloodborne, viktorianischer Stil, alte Götter die den Charakter in den Wahnsinn treiben
 	- Anpassung der Welt (Stimmung, Wetter) an Entwicklung des Charakters
 	- Zwei Spielenden: Übernahme der Rolle des Bösen oder Erlösung durch Aufwachen
+	(https://www.youtube.com/watch?v=eIsApsfTLfw)
 - Tales of Azerim SkyCraft
 	- Basierend auf Videos von VLDL (YouTuber)
 - World of horror
 	- Charaktereigenschaften
 	- Doom Level der nicht zu sehr steigen darf
-- Deponia (Hersteller: Daedelics)
+- Deponia (Hersteller: Daedalic)
+(https://store.steampowered.com/app/214340/Deponia/)
 	- Point+Click
 	- Inventar
 	- Dialoge mit Optionen
