@@ -9,18 +9,19 @@ kanban-plugin: board
 - [ ] Find a name for the main character
 - [ ] Define the dialog system (technical)
 - [ ] Define a fighting system (technical)
-- [ ] Add sound
 
 
 ## ToDo
 
-- [ ] Set up a repository for the game (Lukas)
-- [ ] Install Godot and get started and decide between C# and GDscript (alle)
-- [ ] Write a readme for the installation (Uwe shall be able to test each week)
+- [ ] [[Set up a repository for the game (Lukas)]]
+- [ ] Improve the readme according to the [[meeting06 12.11]] notes
 	(Pierre)
-- [ ] Implement the entry screen with a menu (Agon)
-- [ ] Draw some images for the first scenes (Mareike)
-- [ ] Make parts of the image clickable (Daniel)
+- [ ] clarify MacOS support (Lukas)
+- [ ] Define naming convention and directory structure (Lukas)
+- [ ] Write the tutorial story, so that it is clear which scenes and objects are needed, start and end needs to be defined (Mareike)
+- [ ] Dealing with fullscreen mode for various screen resolutions (Agon)
+- [ ] Add first sound (effects or ambient) to Godot project (Pierre)
+- [ ] Show what is clickable (see [[meeting06 12.11]] notes for ideas) (Daniel)
 
 
 ## In Progress
@@ -34,6 +35,12 @@ kanban-plugin: board
 
 ## Complete
 
+- [ ] Make parts of the image clickable (Daniel)
+- [ ] Draw some images for the first scenes (Mareike)
+- [ ] Implement the entry screen with a menu (Agon)
+- [ ] Write a readme for the installation (Uwe shall be able to test each week)
+	(Pierre)
+- [ ] Install Godot and get started and decide between C# and GDscript (alle)
 - [ ] Check if LLMs can create further cases
 - [ ] Fill [[what if]] pages
 - [ ] Write first case (tutorial)
