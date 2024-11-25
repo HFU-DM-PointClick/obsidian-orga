@@ -13,20 +13,19 @@ kanban-plugin: board
 
 ## ToDo
 
-- [ ] [[Set up a repository for the game (Lukas)]]
-- [ ] Improve the readme according to the [[meeting06 12.11]] notes
-	(Pierre)
-- [ ] clarify MacOS support (Lukas)
-- [ ] Define naming convention and directory structure (Lukas)
-- [ ] Write the tutorial story, so that it is clear which scenes and objects are needed, start and end needs to be defined (Mareike)
-- [ ] Dealing with fullscreen mode for various screen resolutions (Agon)
-- [ ] Add first sound (effects or ambient) to Godot project (Pierre)
-- [ ] Show what is clickable (see [[meeting06 12.11]] notes for ideas) (Daniel)
 
 
 ## In Progress
 
 - [ ] Add links to [[meeting03 22.10.]]
+- [ ] [[Set up a repository for the game (Lukas)]]
+- [ ] [[Improve the readme]]
+	(Pierre)
+- [ ] clarify MacOS support (Lukas)
+- [ ] Define naming convention and directory structure (Lukas)
+- [ ] [[Write the tutorial story, so that it is clear which scenes and objects are needed, start and end needs to be defined (Mareike)]]
+- [ ] Show what is clickable (see [[meeting06 12.11]] notes for ideas) (Daniel)
+- [ ] [[Clarify how to embed an AI model (Agon)]]
 
 
 ## Need Help
@@ -35,6 +34,8 @@ kanban-plugin: board
 
 ## Complete
 
+- [ ] Add first sound (effects or ambient) to Godot project (Pierre)
+- [ ] Dealing with fullscreen mode for various screen resolutions (Agon)
 - [ ] Make parts of the image clickable (Daniel)
 - [ ] Draw some images for the first scenes (Mareike)
 - [ ] Implement the entry screen with a menu (Agon)
