@@ -1,9 +1,10 @@
 Projekt
-    scipts
+    scripts
         ai
         global
-            machanics
+            mechanics
             object
+            character
             other 
         cases
             [casename]
@@ -23,6 +24,7 @@ Projekt
                 background
                 foreground
                 objects
+                character
         cases
             [casename]
                  scenes
