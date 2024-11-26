@@ -1,0 +1,42 @@
+Projekt
+    scipts
+        ai
+        global
+            machanics
+            object
+            other 
+        cases
+            [casename]
+                scenes
+                    [scenename]
+                        main_script.gd
+                        object_scipts
+                        other   
+    assets
+        global
+            animations
+             audio
+                voices
+                music
+                fx
+             images
+                background
+                foreground
+                objects
+        cases
+            [casename]
+                 scenes
+                    [scenename]
+                        animations
+                         audio
+                            music
+                             fx
+                            images
+                            background
+                            foreground
+                            objects
+    plugins
+    docs
+
+
+[case]_[scene]_[name].gd
