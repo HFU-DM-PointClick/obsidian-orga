@@ -166,7 +166,7 @@ Main Character: ”let‘s see if i can find out where they went … there shoul
 
 [Player searches for clues and finds his way to the shack] 
 
-Main Character: ”looks like this is it the assumed shack in the woods” 
+Main Character: ”looks like this is it, the assumed shack in the woods” 
 
 [Player tries to open the door] 
 

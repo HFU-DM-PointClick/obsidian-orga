@@ -5,7 +5,9 @@ Projekt
             mechanics
             object
             character
-            other 
+            other
+             ui
+	         main_menu 
         cases
             [casename]
                 scenes
@@ -15,7 +17,20 @@ Projekt
                         other   
     assets
         global
-            animations
+			ui
+				audio
+					 fx
+					 music
+				 images
+					 interface
+					 objects
+			main_menu
+				audio
+					fx
+					music
+				images
+					objects
+					background
              audio
                 voices
                 music
@@ -29,7 +44,6 @@ Projekt
             [casename]
                  scenes
                     [scenename]
-                        animations
                          audio
                             music
                              fx
