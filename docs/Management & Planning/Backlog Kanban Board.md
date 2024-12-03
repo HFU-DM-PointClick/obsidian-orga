@@ -18,14 +18,16 @@ kanban-plugin: board
 ## In Progress
 
 - [ ] Add links to [[meeting03 22.10.]]
-- [ ] [[Set up a repository for the game (Lukas)]]
 - [ ] clarify MacOS support (Lukas)
 - [ ] [[Write the tutorial story, so that it is clear which scenes and objects are needed, start and end needs to be defined (Mareike)]]
 - [ ] Show what is clickable (see [[meeting06 12.11]] notes for ideas) (Daniel)
 - [ ] [[Clarify how to embed an AI model (Agon)]]
-- [ ] Replace the current Godot file and add the structure (Daniel)
 - [ ] Install LFS on your device (everyone)
 - [ ] Clean visuals for the first scene, sketches (Pierre + Lukas)
+- [ ] finish tuto story (Mareike)
+- [ ] Animation for main_menu (Pierre)
+- [ ] Ai schnittstelle (Agon)
+- [ ] Fix Sound & continue on office scene with objects (Clickable)(Daniel)
 
 
 ## Need Help
@@ -34,6 +36,8 @@ kanban-plugin: board
 
 ## Complete
 
+- [ ] Replace the current Godot file and add the structure (Daniel)
+- [ ] [[Set up a repository for the game (Lukas)]]
 - [ ] Define naming convention and directory structure (Lukas)
 - [ ] [[Improve the readme]]
 	(Pierre)
