@@ -16,7 +16,7 @@ Meeting am 03.12.24 14:30
 
 ## Ort und Zeit für das nächste Meeting festlegen
 
-Dienstag, 03.12.2024 im N-Bau N0.04 (Optiklabor)
+Dienstag, 03.12.2024 online
 
 ## Themen
 - aktuellen Stand besprechen + klären wie wir fortfahren
