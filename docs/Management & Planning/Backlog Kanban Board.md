@@ -9,6 +9,8 @@ kanban-plugin: board
 - [ ] Find a name for the main character
 - [ ] Define the dialog system (technical)
 - [ ] Define a fighting system (technical)
+- [ ] Main Character Design
+- [ ] Main Character Animations
 
 
 ## ToDo
@@ -24,10 +26,11 @@ kanban-plugin: board
 - [ ] [[Clarify how to embed an AI model (Agon)]]
 - [ ] Install LFS on your device (everyone)
 - [ ] Clean visuals for the first scene, sketches (Pierre + Lukas)
-- [ ] finish tuto story (Mareike)
-- [ ] Animation for main_menu (Pierre)
 - [ ] Ai schnittstelle (Agon)
 - [ ] Fix Sound & continue on office scene with objects (Clickable)(Daniel)
+- [ ] Define Color pallet (Lukas + Pierre)
+- [ ] Tuto Story Gespräche (Mareike)
+- [ ] design für Lockpick/ Funktion (Daniel)
 
 
 ## Need Help
@@ -36,6 +39,8 @@ kanban-plugin: board
 
 ## Complete
 
+- [ ] finish tuto story (Mareike)
+- [ ] Animation for main_menu (Pierre)
 - [ ] Replace the current Godot file and add the structure (Daniel)
 - [ ] [[Set up a repository for the game (Lukas)]]
 - [ ] Define naming convention and directory structure (Lukas)

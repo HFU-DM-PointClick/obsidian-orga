@@ -66,7 +66,7 @@ Spielerische Inspiration
 	- Charaktereigenschaften
 	- Doom Level der nicht zu sehr steigen darf
 - Deponia (Hersteller: Daedalic)
-(https://store.steampowered.com/app/214340/Deponia/)
+	(https://store.steampowered.com/app/214340/Deponia/)
 	- Point+Click
 	- Inventar
 	- Dialoge mit Optionen
