@@ -38,7 +38,7 @@ Main Character: ”A new case? Crime never sleeps huh” 
 
 [after picking up the phone] 
 
-Main Character: ”you‘re speaking to detective (Name of character) how can i help you” 
+Main Character: ”Detective (Name) speaking” 
 
 Person on the phone(...) 
 
@@ -46,11 +46,11 @@ Main Character: ”A missing person? How long has he been missing for?” 
 
 Person on the phone (...) 
 
-Main Character: ”A week? That is a long time, he never messaged you?” 
+Main Character: ”A week? That is a long time, any informations on possible wherabouts?” 
 
 Person on the phone(...) 
 
-Main Character: ”was there anything strange about him when you last talked to him?” 
+Main Character: ”Did anyone notice anything strange when talking to him?” 
 
 Person on the phone(...) 
 
@@ -80,7 +80,7 @@ Investigator: ”It’s scary what this city has become…”
   
 Investigator: …  
   
-Investigator:  „you um… you sure you up for this?” 
+Investigator:  "you um… you sure you up for this?” 
 
 Main Character: ”im fine. I´ll manage it” 
 
@@ -102,7 +102,7 @@ Main Character: ”The school should still be open, better get there before it c
 
 Main Character: ”Good day. I’m Detective (Name) and I’m here to investigate the disappearance of (Student.”   
   
-Teacher: „He’s – missing? I thought he was just home sick, I was on my way to contact the parents… do you know anything, what happened to him?”  
+Teacher: "He’s – missing? I thought he was just home sick, I was on my way to contact the parents… do you know anything, what happened to him?”  
   
 Main Character: “Not yet, but that’s why I’m here after all. When did you see him last?”
 
@@ -140,11 +140,11 @@ Ice creme shop owner: ”ahh (16 year old name), of course i know him, he and hi
 
 Main Character: ”No, he’s not in trouble, but he’s been missing for a week. Have you seen anything?” 
 
-Ice creme shop owner: “ now that you mention it … he wasn´t here for quiet some time … I do hope that camping trip worked out okay…”  
+Ice creme shop owner: “ now that you mention it … he wasn´t here for quiet some time … I do hope that meet-up worked out okay…”  
   
-MC: “Camping trip?”  
+MC: “Meet-up?”  
   
-Shop owner: “Yeah, his friends were talking about meeting him there… said something like… it belonged to one of their grandparents or something? But they did mention the woods.”
+Shop owner: “Yeah, his friends were talking about meeting him … said something like… a cabin that belonged to one of their grandparents or something? But they did mention the woods.”
 
 Main Character: ”So they wanted to meet (Student) a week ago in that shack? … you wouldn’t happen to know where exactly it is, would you?” 
 
@@ -166,7 +166,7 @@ Main Character: ”let‘s see if i can find out where they went … there shoul
 
 [Player searches for clues and finds his way to the shack] 
 
-Main Character: ”looks like this is it the assumed shack in the woods” 
+Main Character: ”looks like this is it, the assumed shack in the woods” 
 
 [Player tries to open the door] 
 
@@ -197,3 +197,41 @@ Main Character: ”what monster could do this” 
 Main Character: ”i need to call this in and search for evidence, whoever did this can´t be walking free” 
 
 [Player gets control and needs to search for evidence on the crime scene]
+
+[finds possibly: comics, food wrappers, empty bottles, blankets, BOOK, RUNES ON THE FLOOR]
+
+Main Character: "Whatever happened here, I need to call this in. Maybe the crime scene investigators can find more leads. And someone needs to take care of him."
+[looks down at the body]
+Main Character: "I'm sorry I couldn’t save you, either..."
+
+[takes out walkie talkie]
+
+Main Character: "I will need some assistance in the forest, I found a body."
+
+[time skip to station, back in first room]
+
+[goes over to evidence board, if you click on it, you automatically add new possible evidence on there, tutorial follows]
+
+Main Character: "Hm... I need more information on this."
+
+(message on phone): Suspects for your murder case are in
+
+
+- talks to them
+
+[back in room]
+
+Main Character: "This is a tricky one..."
+
+[board, adding new information]
+[once enough is combined] Main Character: "So they... wanted to scare (name of kid) by pretending to summon a demon and then he ended up dead with no eyes..."
+
+Main Character: "This would be easier if I could focus, but my dreams..."
+
+[combines everything]
+
+Main Character: "The teens are either too scared to actually say something or... their claims of a demon are true in the way of someone dressed up as a demon and killed the kid... but we found no traces of anyone other than them... so it had to be them. They seem guilty, after all... (name of one teen) half admitted it was their fault. They wanted to scare him and ended up actually killing him."
+
+[case closed mechanic?]
+
+Main Character: "I need a retirement... looking over the book at home really sparked my imagination... those dreams ... and everything else... I need a break. Moving away from all the stress does sound nice..." 
