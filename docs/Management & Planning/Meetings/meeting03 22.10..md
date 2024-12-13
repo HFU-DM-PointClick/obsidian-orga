@@ -30,6 +30,7 @@ Alle neuen Aufgaben nur noch im [[Backlog Kanban Board]]
 
 Grafische Inspirationen:
 - Junji Ito --> World of Horror basiert darauf
+- https://de.wikipedia.org/wiki/Junji_It%C5%8D
 - https://de.wikipedia.org/wiki/Call_of_Cthulhu_(Rollenspiel) --> Umsetzung bei Pegasus
 - Warhammer Fraktion Tyraniden
 - (https://www.warhammer.com/en-GB/shop/warhammer-40000/xenos-armies/tyranids)
@@ -38,6 +39,7 @@ Grafische Inspirationen:
 - Murder Drones
 - Amazing Digital Circus
 - World of Horror
+- https://store.steampowered.com/app/913740/WORLD_OF_HORROR/
 - Project Zomboid --> isometrische Welt
 - https://store.steampowered.com/app/108600/Project_Zomboid/
 
