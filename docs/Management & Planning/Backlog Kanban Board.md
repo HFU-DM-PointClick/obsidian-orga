@@ -15,6 +15,16 @@ kanban-plugin: board
 
 ## ToDo
 
+- [ ] tuto_school ()
+- [ ] tuto_icecreamshop ()
+- [ ] tuto_forest_trail01 ()
+- [ ] tuto_forest_trail02 ()
+- [ ] tuto_forest_cabin
+- [ ] tuto_office inside cabin ()
+- [ ] Custom Cursor ()
+- [ ] Cursor symbols ()
+- [ ] ingame Voice lines (Text) ()
+- [ ] Main Character refrences ()
 
 
 ## In Progress
@@ -27,10 +37,11 @@ kanban-plugin: board
 - [ ] Install LFS on your device (everyone)
 - [ ] Clean visuals for the first scene, sketches (Pierre + Lukas)
 - [ ] Ai schnittstelle (Agon)
-- [ ] Fix Sound & continue on office scene with objects (Clickable)(Daniel)
 - [ ] Define Color pallet (Lukas + Pierre)
 - [ ] Tuto Story Gespräche (Mareike)
 - [ ] design für Lockpick/ Funktion (Daniel)
+- [ ] Bug fixes (Main Menu, First scene)(Daniel)
+- [ ] tuto_corridor scene (Lukas)
 
 
 ## Need Help
@@ -39,6 +50,8 @@ kanban-plugin: board
 
 ## Complete
 
+- [ ] Fix Sound & continue on office scene with objects (Clickable)(Daniel)
+- [ ] tuto_office scene (Pierre)
 - [ ] finish tuto story (Mareike)
 - [ ] Animation for main_menu (Pierre)
 - [ ] Replace the current Godot file and add the structure (Daniel)
