@@ -36,8 +36,8 @@ Grafische Inspirationen:
 - (https://www.warhammer.com/en-GB/shop/warhammer-40000/xenos-armies/tyranids)
 - Zergs in StarCraft
 - (https://www.youtube.com/watch?v=D5HXVlJgXMQ)
-- Murder Drones
-- Amazing Digital Circus
+- Murder Drones ([Murder Drones](https://www.youtube.com/watch?v=mImFz8mkaHo&list=PLHovnlOusNLiJz3sm0d5i2Evwa2LDLdrg))
+- Amazing Digital Circus [Amazing Digital Circus](https://www.youtube.com/playlist?list=PLHovnlOusNLgvAbnxluXCVB3KLj8e4QB-)
 - World of Horror
 - https://store.steampowered.com/app/913740/WORLD_OF_HORROR/
 - Project Zomboid --> isometrische Welt
