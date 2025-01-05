@@ -44,8 +44,8 @@ Grafische Inspirationen:
 - https://store.steampowered.com/app/108600/Project_Zomboid/
 
 Erzählerische Inspirationen:
-- H.P. Lovecraft
-- Edgar Allen Poe
+- H.P. Lovecraft (https://www.youtube.com/watch?v=xaaU-PkFMHw&list=PLAEqAwLFXMv9sQGKMdI3iYk-jDr2RyLaK youtube Playlist) 
+- Edgar Allen Poe (https://www.youtube.com/watch?v=qDRQ5HscKQE&list=PLDNa5FAxGc9ZPzaxCH1Wq3uVhN-Y2GCLR youtube Playlist)
 - Magnus Archive ([[Podcasts]])
 - Murder Drones
 

@@ -15,22 +15,32 @@ kanban-plugin: board
 
 ## ToDo
 
+- [ ] tuto_school ()
+- [ ] tuto_icecreamshop ()
+- [ ] tuto_forest_trail01 ()
+- [ ] tuto_forest_trail02 ()
+- [ ] tuto_forest_cabin
+- [ ] tuto_office inside cabin ()
+- [ ] Custom Cursor ()
+- [ ] Cursor symbols ()
+- [ ] ingame Voice lines (Text) ()
+- [ ] Main Character refrences ()
 
 
 ## In Progress
 
 - [ ] Add links to [[meeting03 22.10.]]
 - [ ] clarify MacOS support (Lukas)
-- [ ] [[Write the tutorial story, so that it is clear which scenes and objects are needed, start and end needs to be defined (Mareike)]]
 - [ ] Show what is clickable (see [[meeting06 12.11]] notes for ideas) (Daniel)
 - [ ] [[Clarify how to embed an AI model (Agon)]]
 - [ ] Install LFS on your device (everyone)
 - [ ] Clean visuals for the first scene, sketches (Pierre + Lukas)
 - [ ] Ai schnittstelle (Agon)
-- [ ] Fix Sound & continue on office scene with objects (Clickable)(Daniel)
 - [ ] Define Color pallet (Lukas + Pierre)
 - [ ] Tuto Story Gespräche (Mareike)
 - [ ] design für Lockpick/ Funktion (Daniel)
+- [ ] Bug fixes (Main Menu, First scene)(Daniel)
+- [ ] tuto_corridor scene (Lukas)
 
 
 ## Need Help
@@ -39,7 +49,10 @@ kanban-plugin: board
 
 ## Complete
 
+- [ ] Fix Sound & continue on office scene with objects (Clickable)(Daniel)
+- [ ] tuto_office scene (Pierre)
 - [ ] finish tuto story (Mareike)
+- [ ] [[Write the tutorial story, so that it is clear which scenes and objects are needed, start and end needs to be defined (Mareike)]]
 - [ ] Animation for main_menu (Pierre)
 - [ ] Replace the current Godot file and add the structure (Daniel)
 - [ ] [[Set up a repository for the game (Lukas)]]
