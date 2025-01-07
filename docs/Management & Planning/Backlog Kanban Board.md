@@ -21,34 +21,42 @@ kanban-plugin: board
 - [ ] tuto_forest_trail02 ()
 - [ ] tuto_forest_cabin
 - [ ] tuto_office inside cabin ()
-- [ ] Custom Cursor ()
-- [ ] Cursor symbols ()
 - [ ] ingame Voice lines (Text) ()
-- [ ] Main Character refrences ()
 
 
 ## In Progress
 
-- [ ] Add links to [[meeting03 22.10.]]
-- [ ] clarify MacOS support (Lukas)
 - [ ] Show what is clickable (see [[meeting06 12.11]] notes for ideas) (Daniel)
-- [ ] [[Clarify how to embed an AI model (Agon)]]
-- [ ] Install LFS on your device (everyone)
-- [ ] Clean visuals for the first scene, sketches (Pierre + Lukas)
-- [ ] Ai schnittstelle (Agon)
-- [ ] Define Color pallet (Lukas + Pierre)
-- [ ] Tuto Story Gespräche (Mareike)
+- [ ] Custom Cursor (Pierre)
+- [ ] Cursor symbols (Pierre)
 - [ ] design für Lockpick/ Funktion (Daniel)
-- [ ] Bug fixes (Main Menu, First scene)(Daniel)
 - [ ] tuto_corridor scene (Lukas)
+- [ ] Main Character references (Mareike)
+- [ ] Telefon im Büro klingelt (Lukas)
+- [ ] Nach Klick auf das klingelnde Telefon, wird ein Dialogfenster mit dem Dialog aus [[Tutorial Story Rework]] eingeblendet. (Lukas)
+- [ ] Dialog mit LLM führen im Godot Testprojekt (Agon)
+- [ ] [Serum](https://xferrecords.com/products/serum/) Lizenz klären (Uwe)
 
 
 ## Need Help
 
+- [ ] Clean visuals for the first scene, sketches (Pierre + Lukas)
+	mit click auf die Tür kommt man in den Korridor
+- [ ] Install LFS on your device (everyone)
 
 
 ## Complete
 
+- [ ] Bug fixes (Main Menu, First scene)(Daniel)
+- [ ] Ai schnittstelle (Agon)
+- [ ] Define Color pallet (Lukas + Pierre)
+	[[Design description]]
+- [ ] clarify MacOS support (Lukas)
+	no Mac support as Godot crashes without error message
+- [ ] Tuto Story Gespräche (Mareike)
+	[[Tutorial Story Trials]]
+- [ ] [[Clarify how to embed an AI model (Agon)]]
+- [ ] Add links to [[meeting03 22.10.]]
 - [ ] Fix Sound & continue on office scene with objects (Clickable)(Daniel)
 - [ ] tuto_office scene (Pierre)
 - [ ] finish tuto story (Mareike)
