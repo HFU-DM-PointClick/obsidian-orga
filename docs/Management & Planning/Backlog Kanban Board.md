@@ -26,27 +26,32 @@ kanban-plugin: board
 
 ## In Progress
 
-- [ ] Show what is clickable (see [[meeting06 12.11]] notes for ideas) (Daniel)
-- [ ] Custom Cursor (Pierre)
-- [ ] Cursor symbols (Pierre)
-- [ ] design für Lockpick/ Funktion (Daniel)
-- [ ] tuto_corridor scene (Lukas)
-- [ ] Main Character references (Mareike)
-- [ ] Telefon im Büro klingelt (Lukas)
-- [ ] Nach Klick auf das klingelnde Telefon, wird ein Dialogfenster mit dem Dialog aus [[Tutorial Story Rework]] eingeblendet. (Lukas)
-- [ ] Dialog mit LLM führen im Godot Testprojekt (Agon)
 - [ ] [Serum](https://xferrecords.com/products/serum/) Lizenz klären (Uwe)
+- [ ] (BUG) Telefon klingelt mehrfach (Lukas)
+- [ ] (BUG) Hover über Telefon nicht sauber (Pierre)
+- [ ] (BUG) Grafiken zerschossen bei AMD Grafikkarten (Daniel)
+- [ ] KI Dialog in Godot mit dem Dialogmanager (Agon)
+- [ ] Erster Entwurf Main Character idle Szene 1 im Büro (Mareike)
 
 
 ## Need Help
 
-- [ ] Clean visuals for the first scene, sketches (Pierre + Lukas)
-	mit click auf die Tür kommt man in den Korridor
-- [ ] Install LFS on your device (everyone)
 
 
 ## Complete
 
+- [ ] Install LFS on your device (everyone)
+- [ ] Clean visuals for the first scene, sketches (Pierre + Lukas)
+	mit click auf die Tür kommt man in den Korridor
+- [ ] Dialog mit LLM führen im Godot Testprojekt (Agon)
+- [ ] Main Character references (Mareike)
+- [ ] design für Lockpick/ Funktion (Daniel)
+- [ ] tuto_corridor scene (Lukas)
+- [ ] Nach Klick auf das klingelnde Telefon, wird ein Dialogfenster mit dem Dialog aus [[Tutorial Story Rework]] eingeblendet. (Lukas)
+- [ ] Telefon im Büro klingelt (Lukas)
+- [ ] Cursor symbols (Pierre)
+- [ ] Custom Cursor (Pierre)
+- [ ] Show what is clickable (see [[meeting06 12.11]] notes for ideas) (Daniel)
 - [ ] Bug fixes (Main Menu, First scene)(Daniel)
 - [ ] Ai schnittstelle (Agon)
 - [ ] Define Color pallet (Lukas + Pierre)

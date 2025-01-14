@@ -1,0 +1,1 @@
+https://www.youtube.com/watch?v=KJtZARuO3JY Grant Sanderson explains attention.
