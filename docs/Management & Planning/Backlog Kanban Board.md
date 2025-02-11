@@ -6,11 +6,8 @@ kanban-plugin: board
 
 ## Backlog
 
-- [ ] Find a name for the main character
 - [ ] Define the dialog system (technical)
 - [ ] Define a fighting system (technical)
-- [ ] Main Character Design
-- [ ] Main Character Animations
 
 
 ## ToDo
@@ -22,6 +19,15 @@ kanban-plugin: board
 - [ ] tuto_forest_cabin
 - [ ] tuto_office inside cabin ()
 - [ ] ingame Voice lines (Text) ()
+- [ ] tuto_Main Character Design
+- [ ] tuto_Main Character Animations
+- [ ] tuto_implementierung vom Main character
+- [ ] tuto_Find a name for the main character
+- [ ] tuto_Verhör mechenick
+- [ ] tuto_key npc design (teacher, icecream)
+- [ ] tuto_grafik für die Schlösser
+- [ ] tuto_Escape Menu
+- [ ] tuto_evidence board mechanik und design
 
 
 ## In Progress
