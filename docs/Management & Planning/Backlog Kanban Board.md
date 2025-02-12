@@ -53,7 +53,7 @@ kanban-plugin: board
 - [ ] Main Character references (Mareike)
 - [ ] design für Lockpick/ Funktion (Daniel)
 - [ ] tuto_corridor scene (Lukas)
-- [ ] Nach Klick auf das klingelnde Telefon, wird ein Dialogfenster mit dem Dialog aus [[Tutorial Story Rework]] eingeblendet. (Lukas)
+- [ ] Nach Klick auf das klingelnde Telefon, wird ein Dialogfenster mit dem Dialog aus [[Tutorial Story Updated]] eingeblendet. (Lukas)
 - [ ] Telefon im Büro klingelt (Lukas)
 - [ ] Cursor symbols (Pierre)
 - [ ] Custom Cursor (Pierre)

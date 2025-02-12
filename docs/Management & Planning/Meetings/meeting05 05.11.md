@@ -35,7 +35,7 @@ Story und Worldbuilding teilen und offene Punkte klären
 - Unter [[Main Char]] wurden mehr Details erarbeitet. Die Vorfälle führen dazu, dass der Hauptcharakter in das Dorf kommt. Das ist die Vorgeschichte, die als Tutorial gespielt werden soll.
 	- Namen noch offen
 - Es müssen Zeichen im Tutorial auftauchen, die dann in der Hauptstory wieder eine Bedeutung haben.
-- Unter [[Gedanken zu Dingen, an die man sich erinnern möchte]] wurden zwei möglichen Namen des Dorfes gesammelt (Anagramme von Furtwangen)
+- Unter [[Thoughts and mental notes]] wurden zwei möglichen Namen des Dorfes gesammelt (Anagramme von Furtwangen)
 
 Gedanken zur Umsetzung:
 - Story ist klar, wie fängt man an?
