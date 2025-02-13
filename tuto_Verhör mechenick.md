@@ -1,0 +1,1 @@
+We need to develop a mechanic for the trials or find a game that has a similar system to what we need. This will give us a starting point and a reference for development.

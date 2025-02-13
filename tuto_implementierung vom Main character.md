@@ -1,0 +1,1 @@
+Once we have the design of the main character, we can start implementing them in the game to test what works and what doesn’t. Animations won’t be needed yet for this phase, as the focus will be on testing and refining the character’s integration.
