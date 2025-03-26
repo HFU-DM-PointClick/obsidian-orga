@@ -1,0 +1,1 @@
+As the title says, we need to add the voice lines from [[Tutorial Story Version 1]] to their respective scenes.

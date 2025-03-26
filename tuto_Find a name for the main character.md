@@ -1,0 +1,1 @@
+As the title says, we need a name for the main character—something that fits the game's setting and atmosphere. It should be easy to read and pronounce but not too plain, like "Max."

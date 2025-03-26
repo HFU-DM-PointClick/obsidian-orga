@@ -1,0 +1,1 @@
+We need a graphic design for the lockpicking overlay, as shown in [[Dev Notes]].
