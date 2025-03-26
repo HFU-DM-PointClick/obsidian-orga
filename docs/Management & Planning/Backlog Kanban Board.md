@@ -29,13 +29,13 @@ kanban-plugin: board
 - [ ] [Serum](https://xferrecords.com/products/serum/) Lizenz klären (Uwe)
 - [ ] (BUG) Telefon klingelt mehrfach (Lukas)
 - [ ] (BUG) Hover über Telefon nicht sauber (Pierre)
-- [ ] (BUG) Grafiken zerschossen bei AMD Grafikkarten (Daniel)
 - [ ] KI Dialog in Godot mit dem Dialogmanager (Agon)
 - [ ] Erster Entwurf Main Character idle Szene 1 im Büro (Mareike)
 
 
 ## Need Help
 
+- [ ] (BUG) Grafiken zerschossen bei AMD Grafikkarten (Daniel)
 
 
 ## Complete
