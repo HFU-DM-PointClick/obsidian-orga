@@ -46,6 +46,7 @@ kanban-plugin: board
 
 ## Complete
 
+- [ ] Added Refrences to current ToDo´s (Daniel)
 - [ ] Install LFS on your device (everyone)
 - [ ] Clean visuals for the first scene, sketches (Pierre + Lukas)
 	mit click auf die Tür kommt man in den Korridor
