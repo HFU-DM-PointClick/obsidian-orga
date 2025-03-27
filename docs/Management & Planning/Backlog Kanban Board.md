@@ -33,7 +33,6 @@ kanban-plugin: board
 ## In Progress
 
 - [ ] [Serum](https://xferrecords.com/products/serum/) Lizenz klären (Uwe)
-- [ ] (BUG) Telefon klingelt mehrfach (Lukas)
 - [ ] (BUG) Hover über Telefon nicht sauber (Pierre)
 - [ ] KI Dialog in Godot mit dem Dialogmanager (Agon)
 - [ ] Erster Entwurf Main Character idle Szene 1 im Büro (Mareike)
@@ -46,6 +45,7 @@ kanban-plugin: board
 
 ## Complete
 
+- [ ] (BUG) Telefon klingelt mehrfach (Lukas)
 - [ ] Added Refrences to current ToDo´s (Daniel)
 - [ ] Install LFS on your device (everyone)
 - [ ] Clean visuals for the first scene, sketches (Pierre + Lukas)
