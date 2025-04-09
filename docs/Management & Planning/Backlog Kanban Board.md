@@ -32,6 +32,8 @@ kanban-plugin: board
 
 ## In Progress
 
+- [ ] Create "dummy" Scenes
+- [ ] Clean Code Structure
 - [ ] [Serum](https://xferrecords.com/products/serum/) Lizenz klären (Uwe)
 - [ ] (BUG) Hover über Telefon nicht sauber (Pierre)
 - [ ] KI Dialog in Godot mit dem Dialogmanager (Agon)
