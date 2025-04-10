@@ -19,7 +19,6 @@ kanban-plugin: board
 - [ ] [[tuto_forest_cabin]]
 - [ ] [[tuto_office inside cabin ()]]
 - [ ] [[ingame Voice lines (Text) ()]]
-- [ ] [[tuto_Main Character Design]]
 - [ ] [[tuto_Main Character Animations]]
 - [ ] [[tuto_implementierung vom Main character]]
 - [ ] [[tuto_Find a name for the main character]]
@@ -28,16 +27,17 @@ kanban-plugin: board
 - [ ] [[tuto_grafik für die Schlösser]]
 - [ ] [[tuto_Escape Menu]]
 - [ ] [[tuto_evidence board mechanik und design]]
+- [ ] KI Dialog in Godot mit dem Dialogmanager (Agon)
 
 
 ## In Progress
 
-- [ ] Create "dummy" Scenes
-- [ ] Clean Code Structure
-- [ ] [Serum](https://xferrecords.com/products/serum/) Lizenz klären (Uwe)
-- [ ] (BUG) Hover über Telefon nicht sauber (Pierre)
-- [ ] KI Dialog in Godot mit dem Dialogmanager (Agon)
-- [ ] Erster Entwurf Main Character idle Szene 1 im Büro (Mareike)
+- [ ] [[Create dummy scenes for all scenes]] (Lukas)
+- [ ] [[Clean Code Structure]] (Agon)
+- [ ] (BUG) Hover über Telefon nicht sauber (Agon)
+- [ ] [[tuto_Main Character Design]] (Mareike)
+- [ ] (BUG) Files are created on start at wrong folder (Daniel)
+- [ ] [[tuto_map]] (Pierre)
 
 
 ## Need Help
@@ -47,6 +47,8 @@ kanban-plugin: board
 
 ## Complete
 
+- [ ] [Serum](https://xferrecords.com/products/serum/) Lizenz klären (Uwe)
+- [ ] [[Erster Entwurf Main Character idle Szene 1 im Büro (Mareike)]]
 - [ ] (BUG) Telefon klingelt mehrfach (Lukas)
 - [ ] Added Refrences to current ToDo´s (Daniel)
 - [ ] Install LFS on your device (everyone)
