@@ -36,13 +36,13 @@ kanban-plugin: board
 - [ ] [[Clean Code Structure]] (Agon)
 - [ ] (BUG) Hover über Telefon nicht sauber (Agon)
 - [ ] [[tuto_Main Character Design]] (Mareike)
-- [ ] (BUG) Files are created on start at wrong folder (Daniel)
 - [ ] [[tuto_map]] (Pierre)
 
 
 ## Need Help
 
 - [ ] (BUG) Grafiken zerschossen bei AMD Grafikkarten (Daniel)
+- [ ] (BUG) Files are created on start at wrong folder (Daniel)
 
 
 ## Complete
