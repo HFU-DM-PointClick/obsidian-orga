@@ -33,8 +33,6 @@ kanban-plugin: board
 ## In Progress
 
 - [ ] [[Create dummy scenes for all scenes]] (Lukas)
-- [ ] [[Clean Code Structure]] (Agon)
-- [ ] (BUG) Hover über Telefon nicht sauber (Agon)
 - [ ] [[tuto_Main Character Design]] (Mareike)
 - [ ] [[tuto_map]] (Pierre)
 
@@ -47,6 +45,9 @@ kanban-plugin: board
 
 ## Complete
 
+- [ ] [[Clean Code Structure]] (Agon)
+- [ ] (BUG) Hover über Telefon nicht sauber (Agon)
+	solved in commit f8479aae596325ffa1e9f5bf37c677b8d22e9436
 - [ ] [Serum](https://xferrecords.com/products/serum/) Lizenz klären (Uwe)
 - [ ] [[Erster Entwurf Main Character idle Szene 1 im Büro (Mareike)]]
 - [ ] (BUG) Telefon klingelt mehrfach (Lukas)
