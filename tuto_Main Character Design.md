@@ -5,3 +5,6 @@ Currently, we have some sketches, but the design direction is still unclear. It 
 Game screen resolution is 666x356, hence max size of the full body character is 175px
 
 Include character in all background scenes to check if it fits
+
+![[Screenshot 2025-04-24 at 10.02.50.png]]
+![[Screenshot 2025-04-24 at 10.02.00.png]]
