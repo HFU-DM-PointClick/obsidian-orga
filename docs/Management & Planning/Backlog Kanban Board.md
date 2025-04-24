@@ -19,11 +19,9 @@ kanban-plugin: board
 - [ ] [[tuto_forest_cabin]]
 - [ ] [[tuto_office inside cabin ()]]
 - [ ] [[ingame Voice lines (Text) ()]]
-- [ ] [[tuto_Main Character Animations]]
 - [ ] [[tuto_implementierung vom Main character]]
 - [ ] [[tuto_Find a name for the main character]]
 - [ ] [[tuto_Verhör mechenick]]
-- [ ] [[tuto_key npc design (teacher, icecream)]]
 - [ ] [[tuto_grafik für die Schlösser]]
 - [ ] [[tuto_Escape Menu]]
 - [ ] [[tuto_evidence board mechanik und design]]
@@ -34,7 +32,11 @@ kanban-plugin: board
 
 - [ ] [[Create dummy scenes for all scenes]] (Lukas)
 - [ ] [[tuto_Main Character Design]] (Mareike)
+- [ ] [[tuto_Main Character Animations]] (Mareike)
 - [ ] [[tuto_map]] (Pierre)
+- [ ] [[tuto_save_load_functionality]] (Agon)
+- [ ] [[tuto_key npc design (teacher, icecream)]] (Lukas)
+- [ ] [[tuto_implement_map_navigation]] (Agon)
 
 
 ## Need Help
