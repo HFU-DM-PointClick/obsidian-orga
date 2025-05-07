@@ -37,12 +37,11 @@ kanban-plugin: board
 - [ ] [[tuto_save_load_functionality]] (Agon)
 - [ ] [[tuto_key npc design (teacher, icecream)]] (Lukas)
 - [ ] [[tuto_implement_map_navigation]] (Agon)
+- [ ] Rough [[GUI]] Layout (Daniel)
 
 
 ## Need Help
 
-- [ ] (BUG) Grafiken zerschossen bei AMD Grafikkarten (Daniel)
-- [ ] (BUG) Files are created on start at wrong folder (Daniel)
 
 
 ## Complete
@@ -106,10 +105,16 @@ kanban-plugin: board
 - [ ] Clarify version control (workspace.json) Uwe
 
 
+## On Hold
+
+- [ ] (BUG) Grafiken zerschossen bei AMD Grafikkarten (Daniel)
+- [ ] (BUG) Files are created on start at wrong folder (Daniel)
+
+
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false]}
 ```
 %%
