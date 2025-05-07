@@ -8,3 +8,12 @@ Include character in all background scenes to check if it fits
 
 ![[Screenshot 2025-04-24 at 10.02.50.png]]
 ![[Screenshot 2025-04-24 at 10.02.00.png]]
+
+
+![[detective_farbvariation.png]]
+![[detective_farbvariation_krawatte.png]]
+![[detective_resized_100x175-Sheet.png]]
+
+
+
+
