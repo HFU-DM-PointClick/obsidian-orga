@@ -13,7 +13,6 @@ Include character in all background scenes to check if it fits
 ![[detective_farbvariation.png]]
 ![[detective_farbvariation_krawatte.png]]
 ![[detective_resized_100x175-Sheet.png]]
-
-
-
+![[detective_farbvariation_bart.png]]
+![[detective_farbvariation_gesicht.png]]
 
