@@ -30,14 +30,10 @@ kanban-plugin: board
 
 ## In Progress
 
-- [ ] [[Create dummy scenes for all scenes]] (Lukas)
-- [ ] [[tuto_Main Character Design]] (Mareike)
 - [ ] [[tuto_Main Character Animations]] (Mareike)
-- [ ] [[tuto_map]] (Pierre)
-- [ ] [[tuto_save_load_functionality]] (Agon)
 - [ ] [[tuto_key npc design (teacher, icecream)]] (Lukas)
-- [ ] [[tuto_implement_map_navigation]] (Agon)
-- [ ] Rough [[GUI]] Layout (Daniel)
+- [ ] Finish [[GUI]] layout and implement it. (Daniel)
+- [ ] Implement [[inventory management]] system (Agon)
 
 
 ## Need Help
@@ -46,6 +42,10 @@ kanban-plugin: board
 
 ## Complete
 
+- [ ] Rough [[GUI]] Layout (Daniel)
+- [ ] [[tuto_map]] (Pierre)
+- [ ] [[tuto_Main Character Design]] (Mareike)
+- [ ] [[Create dummy scenes for all scenes]] (Lukas)
 - [ ] [[Clean Code Structure]] (Agon)
 - [ ] (BUG) Hover über Telefon nicht sauber (Agon)
 	solved in commit f8479aae596325ffa1e9f5bf37c677b8d22e9436
@@ -107,6 +107,8 @@ kanban-plugin: board
 
 ## On Hold
 
+- [ ] [[tuto_save_load_functionality]] (Agon)
+- [ ] [[tuto_implement_map_navigation]] (Agon)
 - [ ] (BUG) Grafiken zerschossen bei AMD Grafikkarten (Daniel)
 - [ ] (BUG) Files are created on start at wrong folder (Daniel)
 

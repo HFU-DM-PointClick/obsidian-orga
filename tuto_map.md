@@ -1,1 +1,1 @@
-We need a map scene in order to transfer from one scene to another
+We need a map scene in order to transfer from one scene to another![[map_all_example.png]]
