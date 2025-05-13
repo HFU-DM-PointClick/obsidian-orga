@@ -18,6 +18,9 @@ V0.3
 Added the dimensions for the phone size on the players screen the location of the phone is 111px from the right wall to the left and 89px in height
 there could be a problem with the text box beeing covered by the Phone just in case we should make dialogue less (as in length per sentence) or see if we can move or change the size from the dialogue manager
 
+![[phonedesign.png]]
+This is the design provided by Pierre (<-- Important!!! he made it) you can see all the apps we need we got the map board inventory and questlog next step would be to implement the UI and change the placeholder images with the new design frome Pierre
+
 ------------------------------------------
 Inventory design
 ![[Pasted image 20250508111004.png]]
