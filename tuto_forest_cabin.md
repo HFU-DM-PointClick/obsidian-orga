@@ -3,3 +3,5 @@ The **forest cabin** is connected to [[tuto_forest_trail01 ()]] and will introdu
 Currently, there are no sketches, but they should follow the same design as [[tuto_forest_trail01 ()]] and [[tuto_forest_trail02 ()]] for consistency.
 
 The story can be seen here: [[Tutorial Story Version 1]].
+
+The graphics are done here: [[tuto_graphics for the lock picking]].

@@ -5,4 +5,11 @@ The essential animations we need are **idling, walking, and talking**, which sho
 ![[detective_farbvariation_animation.png]]
 Idle
 
+Still to do:
+Walk
+
+Talk (low priority)
+
+Pick item
+
 
