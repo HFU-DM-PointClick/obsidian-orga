@@ -4,6 +4,15 @@ Lockpick mini game should be in the style of the lockpicking mechanik in skyrim 
 ![[Pasted image 20250111151739.png]]
 (Fallout 4)
 only diffrence is the design mechanically speaking its the same 
+Finished design from pierre
+![[lock_pick_background.png]]
+Background that will rotate when picking the lock
+
+![[lock_pick_layer.png]]
+foreground overlays over the lock
+
+![[lock_pick_gear.png]]
+this is the lock pick that will rotate with the lock when hitting the right spot
 
 
 About the Bug that occurs when starting the game and Godot recreating the deleted tscn files

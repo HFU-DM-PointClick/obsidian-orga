@@ -32,7 +32,7 @@ kanban-plugin: board
 - [ ] [[tuto_Main Character Animations]] (Mareike)
 - [ ] [[tuto_key npc design (teacher, icecream)]] (Lukas)
 - [ ] [[tuto_design first item]] (Pierre)
-- [ ] Finish [[GUI]] layout and implement it. (Daniel)
+- [ ] Implement finished [[GUI]] in the game (Daniel)
 - [ ] [[tuto_implementierung vom Main character]] (Agon)
 - [ ] [[Create dummy scenes for all scenes]] (Pierre)
 
@@ -44,7 +44,9 @@ kanban-plugin: board
 ## Complete
 
 - [ ] [[tuto_graphics for the lock picking]] (Pierre)
+- [ ] Finish [[GUI]] layout (Daniel)
 - [ ] Rough [[GUI]] Layout (Daniel)
+- [ ] tuto_[[John Officer (WIP)]] design (Lukas)
 - [ ] [[tuto_map]] (Pierre)
 - [ ] [[tuto_Main Character Design]] (Mareike)
 - [ ] [[Clean Code Structure]] (Agon)
