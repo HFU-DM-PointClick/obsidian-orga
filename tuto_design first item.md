@@ -1,0 +1,1 @@
+We need one item to test the [[inventory management]].

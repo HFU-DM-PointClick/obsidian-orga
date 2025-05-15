@@ -19,21 +19,22 @@ kanban-plugin: board
 - [ ] [[tuto_forest_cabin]]
 - [ ] [[tuto_office inside cabin ()]]
 - [ ] [[ingame Voice lines (Text) ()]]
-- [ ] [[tuto_implementierung vom Main character]]
 - [ ] [[tuto_Find a name for the main character]]
-- [ ] [[tuto_Verhör mechenick]]
-- [ ] [[tuto_grafik für die Schlösser]]
+- [ ] [[tuto_interrogation mechanics]]
 - [ ] [[tuto_Escape Menu]]
 - [ ] [[tuto_evidence board mechanik und design]]
 - [ ] KI Dialog in Godot mit dem Dialogmanager (Agon)
+- [ ] [[tuto_design all items]] ()
 
 
 ## In Progress
 
 - [ ] [[tuto_Main Character Animations]] (Mareike)
 - [ ] [[tuto_key npc design (teacher, icecream)]] (Lukas)
+- [ ] [[tuto_design first item]] (Pierre)
 - [ ] Finish [[GUI]] layout and implement it. (Daniel)
-- [ ] Implement [[inventory management]] system (Agon)
+- [ ] [[tuto_implementierung vom Main character]] (Agon)
+- [ ] [[Create dummy scenes for all scenes]] (Pierre)
 
 
 ## Need Help
@@ -42,10 +43,10 @@ kanban-plugin: board
 
 ## Complete
 
+- [ ] [[tuto_graphics for the lock picking]] (Pierre)
 - [ ] Rough [[GUI]] Layout (Daniel)
 - [ ] [[tuto_map]] (Pierre)
 - [ ] [[tuto_Main Character Design]] (Mareike)
-- [ ] [[Create dummy scenes for all scenes]] (Lukas)
 - [ ] [[Clean Code Structure]] (Agon)
 - [ ] (BUG) Hover über Telefon nicht sauber (Agon)
 	solved in commit f8479aae596325ffa1e9f5bf37c677b8d22e9436
@@ -107,6 +108,7 @@ kanban-plugin: board
 
 ## On Hold
 
+- [ ] Implement [[inventory management]] system (Agon)
 - [ ] [[tuto_save_load_functionality]] (Agon)
 - [ ] [[tuto_implement_map_navigation]] (Agon)
 - [ ] (BUG) Grafiken zerschossen bei AMD Grafikkarten (Daniel)
