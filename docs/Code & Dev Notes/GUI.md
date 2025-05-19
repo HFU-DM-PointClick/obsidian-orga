@@ -21,6 +21,14 @@ there could be a problem with the text box beeing covered by the Phone just in c
 ![[phonedesign.png]]
 This is the design provided by Pierre (<-- Important!!! he made it) you can see all the apps we need we got the map board inventory and questlog next step would be to implement the UI and change the placeholder images with the new design from Pierre
 
+Phone is now in the game please use it for all menu things (MAP, Inventory etc.) the phone is autoloaded in EVERY scene but it is invisble (Dont asked how i did it i have no clue)
+if you want it to be visible in your scene you need this line of code in the
+
+func _ready(): 
+DetectivePhone.visible = true 
+
+exactly typed like shown or else it wont work
+
 ------------------------------------------
 Inventory design
 ![[Pasted image 20250508111004.png]]
