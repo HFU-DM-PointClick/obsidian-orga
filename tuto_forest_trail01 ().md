@@ -6,3 +6,4 @@ Currently, there are no sketches for trail01. The same can be said for trail02 a
 
 The story for this part is written in [[Tutorial Story Version 1]].
 Connected parts are 
+![[forrest_trail_1.png]]

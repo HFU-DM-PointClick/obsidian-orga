@@ -1,1 +1,2 @@
 We need a map scene in order to transfer from one scene to another![[map_all_example.png]]
+the first time you get to the map is from the Corridor of the office when leaving after talkingt to [[John Officer (WIP)]] 
