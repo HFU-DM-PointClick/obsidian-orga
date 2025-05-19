@@ -14,6 +14,8 @@ foreground overlays over the lock
 ![[lock_pick_gear.png]]
 this is the lock pick that will rotate with the lock when hitting the right spot
 
+finished look in godot![[Pasted image 20250519214539.png]]
+
 
 About the Bug that occurs when starting the game and Godot recreating the deleted tscn files
 Godot recreates them when saving godot not on testing the game
