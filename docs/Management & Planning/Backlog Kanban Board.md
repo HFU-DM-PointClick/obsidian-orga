@@ -40,6 +40,12 @@ kanban-plugin: board
 ## Need Help
 
 - [ ] (BUG) Mouse pointer offset in smartphone UI
+- [ ] (BUG) Smartphone is still visible in the main menu
+- [ ] (BUG) Cursor jumps while spinning, not in center
+- [ ] (BUG) smartphone apps are just clickable in the bottom right corner
+- [ ] (BUG) text in dialogue box has typos
+- [ ] (BUG) cursor should switch to eye cursor when going from corridor to office
+- [ ] (BUG) when clicking on any object in the office, the close up to the clock opens
 
 
 ## Complete
