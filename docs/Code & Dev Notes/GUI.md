@@ -36,3 +36,7 @@ Inventory design
 
 ![[Inventory design in UI layout.png]]
 Rough design when pressed on the Inventory App it should open the Inventory as shown in the referenz and pause the game while being open (same as applied when saving or loading the game)
+
+22.05.25
+- Bug with pointer position (offset)
+- Buttons are linked to dummy functions (console log)

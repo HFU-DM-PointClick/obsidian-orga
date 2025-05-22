@@ -30,19 +30,23 @@ kanban-plugin: board
 ## In Progress
 
 - [ ] [[tuto_Main Character Animations]] (Mareike)
-- [ ] [[tuto_key npc design (teacher, icecream)]] (Lukas)
-- [ ] [[tuto_design first item]] (Pierre)
 - [ ] Implement finished [[GUI]] in the game (Daniel)
 - [ ] [[tuto_implementierung vom Main character]] (Agon)
-- [ ] [[Create dummy scenes for all scenes]] (Pierre)
+- [ ] [[tuto_design_the_inventory]] (Pierre)
+- [ ] [[tuto_integrate_inventory]] (Pierre)
+- [ ] [[tuto_integrate_key_npcs]] (Lukas)
 
 
 ## Need Help
 
+- [ ] (BUG) Mouse pointer offset in smartphone UI
 
 
 ## Complete
 
+- [ ] [[tuto_design first item]] (Pierre)
+- [ ] [[tuto_key npc design (teacher, icecream)]] (Lukas)
+- [ ] [[Create dummy scenes for all scenes]] (Pierre)
 - [ ] [[tuto_graphics for the lock picking]] (Pierre)
 - [ ] Finish [[GUI]] layout (Daniel)
 - [ ] Rough [[GUI]] Layout (Daniel)

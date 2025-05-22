@@ -1,2 +1,2 @@
 ![[IcecreamMan.png]]
-Owern of the Ice Cream Shop
+Owen the owner of the Ice Cream Shop

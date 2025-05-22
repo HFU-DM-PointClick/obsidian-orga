@@ -9,5 +9,9 @@ As listed in [[tuto_school ()]] and [[tuto_icecreamshop ()]], we need a design f
 List: (tbd in obsidian):
 - Teacher
 - Ice cream shop guy
-	
+
+22.05.25
+- teacher and owner available
+- heads too small (but not critical)
+- integration in Godot open
 

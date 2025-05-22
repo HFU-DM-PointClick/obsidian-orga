@@ -6,3 +6,9 @@ Animations won’t be needed yet for this phase, as the focus will be on testing
 - Use idle animation
 - Let him walk around on mouse click.
 	- Clicking on the door should trigger a walking animation towards the door, first. Then leaving/changing the scene. (same for other items as whiteboard, clock, phone and so on...)
+
+22.5.2025
+- first attempt done
+- translation to any image position as translation
+- connection to items needs to be redone
+
