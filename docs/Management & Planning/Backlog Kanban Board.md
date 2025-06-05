@@ -30,11 +30,11 @@ kanban-plugin: board
 ## In Progress
 
 - [ ] [[tuto_Main Character Animations]] (Mareike)
-- [ ] Implement finished [[GUI]] in the game (Daniel)
 - [ ] [[tuto_implementierung vom Main character]] (Agon)
 - [ ] [[tuto_design_the_inventory]] (Pierre)
 - [ ] [[tuto_integrate_inventory]] (Pierre)
-- [ ] [[tuto_integrate_key_npcs]] (Lukas)
+- [ ] [[tuto Add voice lines]] (Lukas)
+- [ ] Fix all cursors (Daniel)
 
 
 ## Need Help
@@ -45,11 +45,11 @@ kanban-plugin: board
 - [ ] (BUG) smartphone apps are just clickable in the bottom right corner
 - [ ] (BUG) text in dialogue box has typos
 - [ ] (BUG) cursor should switch to eye cursor when going from corridor to office
-- [ ] (BUG) when clicking on any object in the office, the close up to the clock opens
 
 
 ## Complete
 
+- [ ] [[tuto_integrate_key_npcs]] (Lukas)
 - [ ] [[tuto_design first item]] (Pierre)
 - [ ] [[tuto_key npc design (teacher, icecream)]] (Lukas)
 - [ ] [[Create dummy scenes for all scenes]] (Pierre)
@@ -125,6 +125,7 @@ kanban-plugin: board
 - [ ] [[tuto_implement_map_navigation]] (Agon)
 - [ ] (BUG) Grafiken zerschossen bei AMD Grafikkarten (Daniel)
 - [ ] (BUG) Files are created on start at wrong folder (Daniel)
+- [ ] Implement finished [[GUI]] in the game (Daniel)
 
 
 
