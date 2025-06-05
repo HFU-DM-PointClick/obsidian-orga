@@ -12,7 +12,10 @@ Walk --> done
 Still to do:
 Talk (low priority)
 
+
+![[detective_farbvariation_interact.png]]
 Pick item
+
 
 Integration in Godot open
 
