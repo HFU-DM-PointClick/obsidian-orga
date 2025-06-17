@@ -31,7 +31,6 @@ kanban-plugin: board
 
 - [ ] [[tuto_Main Character Animations]] (Mareike)
 - [ ] [[tuto_implementierung vom Main character]] (Agon)
-- [ ] [[tuto_design_the_inventory]] (Pierre)
 - [ ] [[tuto_integrate_inventory]] (Pierre)
 - [ ] [[tuto Add voice lines]] (Lukas)
 - [ ] Fix all cursors (Daniel)
@@ -52,6 +51,7 @@ kanban-plugin: board
 - [ ] [[tuto_integrate_key_npcs]] (Lukas)
 - [ ] [[tuto_design first item]] (Pierre)
 - [ ] [[tuto_key npc design (teacher, icecream)]] (Lukas)
+- [ ] [[tuto_design_the_inventory]] (Pierre)
 - [ ] [[Create dummy scenes for all scenes]] (Pierre)
 - [ ] [[tuto_graphics for the lock picking]] (Pierre)
 - [ ] Finish [[GUI]] layout (Daniel)
