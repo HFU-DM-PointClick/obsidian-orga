@@ -49,7 +49,7 @@ Aktueller Stand/Probleme:
 - Agon wegen Krankheit nicht da. Bitte hier noch den neusten Stand eintragen, damit alle bescheid wissen
 
 ##### Animation
-- Noch keine Infos erhalten. Bitte den aktuellen Stand hier angeben und falls die Animation schon vorhanden ist bitte in das Game Repository pushen (evtl. muss hier noch ein Ordner unter globals angelegt werden)
+- Animation weiter, aber walking cycle noch nicht fertig, da sehr große Beine und zu viele Details im Design, die die glaubhafte Animation schwieriger machen, ist auch schwierig mit schrägen Beinpositionen
 
 
 -> Mareike und Agon bitte noch Aufgaben aus dem Kanbanboard auswählen, falls die Workload zu gering und evtl. kurz mit uns in Discord durchsprechen
