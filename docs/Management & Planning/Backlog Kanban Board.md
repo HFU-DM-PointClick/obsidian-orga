@@ -8,18 +8,12 @@ kanban-plugin: board
 
 - [ ] Define the dialog system (technical)
 - [ ] Define a fighting system (technical)
+- [ ] [[ingame Voice lines (Text) ()]]
 
 
 ## ToDo
 
-- [ ] [[tuto_school ()]]
-- [ ] [[tuto_icecreamshop ()]]
-- [ ] [[tuto_forest_trail01 ()]]
-- [ ] [[tuto_forest_trail02 ()]]
-- [ ] [[tuto_forest_cabin]]
 - [ ] [[tuto_office inside cabin ()]]
-- [ ] [[ingame Voice lines (Text) ()]]
-- [ ] [[tuto_Find a name for the main character]]
 - [ ] [[tuto_interrogation mechanics]]
 - [ ] [[tuto_Escape Menu]]
 - [ ] [[tuto_evidence board mechanik und design]]
@@ -32,8 +26,12 @@ kanban-plugin: board
 - [ ] [[tuto_Main Character Animations]] (Mareike)
 - [ ] [[tuto_implementierung vom Main character]] (Agon)
 - [ ] [[tuto_integrate_inventory]] (Pierre)
-- [ ] [[tuto Add voice lines]] (Lukas)
 - [ ] Fix all cursors (Daniel)
+- [ ] [[tuto_school ()]]
+- [ ] [[tuto_icecreamshop ()]]
+- [ ] [[tuto_forest_trail01 ()]]
+- [ ] [[tuto_forest_trail02 ()]]
+- [ ] [[tuto_forest_cabin]]
 
 
 ## Need Help
@@ -48,7 +46,9 @@ kanban-plugin: board
 
 ## Complete
 
+- [ ] [[tuto_Find a name for the main character]]
 - [ ] [[tuto_integrate_key_npcs]] (Lukas)
+- [ ] [[tuto Add voice lines]] (Lukas)
 - [ ] [[tuto_design first item]] (Pierre)
 - [ ] [[tuto_key npc design (teacher, icecream)]] (Lukas)
 - [ ] [[tuto_design_the_inventory]] (Pierre)
