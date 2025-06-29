@@ -8,12 +8,11 @@ kanban-plugin: board
 
 - [ ] Define a fighting system (technical)
 - [ ] [[ingame Voice lines (Text) ()]]
+- [ ] [[tuto_interrogation mechanics]]
 
 
 ## ToDo
 
-- [ ] [[tuto_office inside cabin ()]]
-- [ ] [[tuto_interrogation mechanics]]
 - [ ] [[tuto_Escape Menu]]
 - [ ] KI Dialog in Godot mit dem Dialogmanager (Agon)
 - [ ] [[tuto_design all items]] ()
@@ -30,15 +29,17 @@ kanban-plugin: board
 - [ ] [[tuto_forest_trail01 ()]]
 - [ ] [[tuto_forest_trail02 ()]]
 - [ ] [[tuto_forest_cabin]]
+- [ ] [[tuto_office inside cabin ()]]
 
 
 ## Need Help
 
-- [ ] (BUG) Mouse pointer offset in smartphone UI
 
 
 ## Complete
 
+- [ ] Implement finished [[GUI]] in the game (Daniel)
+- [ ] (BUG) Mouse pointer offset in smartphone UI
 - [ ] (BUG) cursor should switch to eye cursor when going from corridor to office
 - [ ] (BUG) text in dialogue box has typos
 - [ ] (BUG) smartphone apps are just clickable in the bottom right corner
@@ -125,7 +126,6 @@ kanban-plugin: board
 - [ ] [[tuto_implement_map_navigation]] (Agon)
 - [ ] (BUG) Grafiken zerschossen bei AMD Grafikkarten (Daniel)
 - [ ] (BUG) Files are created on start at wrong folder (Daniel)
-- [ ] Implement finished [[GUI]] in the game (Daniel)
 
 
 
