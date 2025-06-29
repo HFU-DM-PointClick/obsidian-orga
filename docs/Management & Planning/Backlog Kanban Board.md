@@ -6,7 +6,6 @@ kanban-plugin: board
 
 ## Backlog
 
-- [ ] Define the dialog system (technical)
 - [ ] Define a fighting system (technical)
 - [ ] [[ingame Voice lines (Text) ()]]
 
@@ -16,17 +15,16 @@ kanban-plugin: board
 - [ ] [[tuto_office inside cabin ()]]
 - [ ] [[tuto_interrogation mechanics]]
 - [ ] [[tuto_Escape Menu]]
-- [ ] [[tuto_evidence board mechanik und design]]
 - [ ] KI Dialog in Godot mit dem Dialogmanager (Agon)
 - [ ] [[tuto_design all items]] ()
 
 
 ## In Progress
 
+- [ ] [[tuto_evidence board mechanik und design]]
 - [ ] [[tuto_Main Character Animations]] (Mareike)
 - [ ] [[tuto_implementierung vom Main character]] (Agon)
 - [ ] [[tuto_integrate_inventory]] (Pierre)
-- [ ] Fix all cursors (Daniel)
 - [ ] [[tuto_school ()]]
 - [ ] [[tuto_icecreamshop ()]]
 - [ ] [[tuto_forest_trail01 ()]]
@@ -37,15 +35,17 @@ kanban-plugin: board
 ## Need Help
 
 - [ ] (BUG) Mouse pointer offset in smartphone UI
-- [ ] (BUG) Smartphone is still visible in the main menu
-- [ ] (BUG) Cursor jumps while spinning, not in center
-- [ ] (BUG) smartphone apps are just clickable in the bottom right corner
-- [ ] (BUG) text in dialogue box has typos
-- [ ] (BUG) cursor should switch to eye cursor when going from corridor to office
 
 
 ## Complete
 
+- [ ] (BUG) cursor should switch to eye cursor when going from corridor to office
+- [ ] (BUG) text in dialogue box has typos
+- [ ] (BUG) smartphone apps are just clickable in the bottom right corner
+- [ ] (BUG) Cursor jumps while spinning, not in center
+- [ ] (BUG) Smartphone is still visible in the main menu
+- [ ] Define the dialog system (technical) (Dialog Manager 4)
+- [ ] Fix all cursors (Daniel, Lukas)
 - [ ] [[tuto_Find a name for the main character]]
 - [ ] [[tuto_integrate_key_npcs]] (Lukas)
 - [ ] [[tuto Add voice lines]] (Lukas)
