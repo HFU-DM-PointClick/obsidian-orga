@@ -21,3 +21,6 @@ Pick item
 
 Integration in Godot open
 
+
+
+![[detective_farbvariation_interact_newWalk.png]]![[detective_farbvariation_interact_newWalk copy.png]]
