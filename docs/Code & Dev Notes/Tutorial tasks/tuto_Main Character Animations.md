@@ -7,6 +7,11 @@ Idle --> done
 
 ![[detective_farbvariation_walkLeftt.png]]
 ![[detective_farbvariation_walkRight.png]]
+
+
+![[detective_farbvariation_interact_walking.png]]
+
+![[detective_farbvariation_interact_walkingLeft.png]]
 Walk --> done
 
 Still to do:
