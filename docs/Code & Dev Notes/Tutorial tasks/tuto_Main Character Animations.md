@@ -21,6 +21,8 @@ Talk (low priority)
 ![[detective_farbvariation_interact.png]]
 ![[detective_farbvariation_interact_newHand.png]]
 
+![[detective_farbvariation_interact_objectVar.png]]
+
 Pick item
 
 
