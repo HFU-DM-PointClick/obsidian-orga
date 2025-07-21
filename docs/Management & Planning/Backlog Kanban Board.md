@@ -8,11 +8,11 @@ kanban-plugin: board
 
 - [ ] Define a fighting system (technical)
 - [ ] [[ingame Voice lines (Text) ()]]
-- [ ] [[tuto_interrogation mechanics]]
 
 
 ## ToDo
 
+- [ ] [[tuto_interrogation mechanics]]
 - [ ] [[tuto_Escape Menu]]
 - [ ] KI Dialog in Godot mit dem Dialogmanager (Agon)
 - [ ] [[tuto_design all items]] ()
@@ -21,15 +21,14 @@ kanban-plugin: board
 ## In Progress
 
 - [ ] [[tuto_evidence board mechanik und design]]
-- [ ] [[tuto_Main Character Animations]] (Mareike)
 - [ ] [[tuto_implementierung vom Main character]] (Agon)
-- [ ] [[tuto_integrate_inventory]] (Pierre)
-- [ ] [[tuto_school ()]]
-- [ ] [[tuto_icecreamshop ()]]
-- [ ] [[tuto_forest_trail01 ()]]
-- [ ] [[tuto_forest_trail02 ()]]
-- [ ] [[tuto_forest_cabin]]
-- [ ] [[tuto_office inside cabin ()]]
+- [ ] [[tuto_integrate_inventory]] (Lukas)
+- [ ] [[tuto_office inside cabin ()]] (Mareike)
+- [ ] [[Obsidian cleanup]]
+- [ ] [[Audio]]
+- [ ] [[Fazit_schreiben]]
+- [ ] [[tuto_interrogation_room_design]] (Mareike)
+- [ ] [[evidence_board_flags]] (Daniel)
 
 
 ## Need Help
@@ -38,6 +37,12 @@ kanban-plugin: board
 
 ## Complete
 
+- [ ] [[tuto_icecreamshop ()]]
+- [ ] [[tuto_school ()]]
+- [ ] [[tuto_forest_cabin]]
+- [ ] [[tuto_forest_trail02 ()]]
+- [ ] [[tuto_forest_trail01 ()]]
+- [ ] [[tuto_Main Character Animations]] (Mareike)
 - [ ] Implement finished [[GUI]] in the game (Daniel)
 - [ ] (BUG) Mouse pointer offset in smartphone UI
 - [ ] (BUG) cursor should switch to eye cursor when going from corridor to office
