@@ -2,6 +2,16 @@ The **inside cabin** should be the next scene after lockpicking the door from [[
 
 Currently, there are no sketches or designs for the collectible evidence or the objects to be inspected.
 
-![[cabin.png]]
+Sketches (Mareike):
+![[Pasted image 20250725113521.png]]
+![[Pasted image 20250725113531.png]]
+![[Pasted image 20250725113541.png]]
 
+Basis: (Pierre)
+![[Pasted image 20250725113623.png]]
+
+Final result: (Mareike)
+
+
+![[cabin.png]]
 ![[cabin_withoutBook.png]]
