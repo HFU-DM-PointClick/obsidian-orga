@@ -11,7 +11,9 @@ Natürlich lief nicht alles reibungslos: Zu Beginn war unsere Kommunikation trot
 
 Ich habe persönlich gelernt, wie wichtig es ist, auch vermeintlich einfache Aufgaben realistisch einzuschätzen – sei es die Wahl einer passenden Bildschirmauflösung, das Erstellen einer Farbpalette oder das Layout einer Szene. Auch im Bereich Versionskontrolle konnte ich viel dazulernen, insbesondere im Umgang mit Branches, Releases und Rollbacks mit Git.
 
-Technisch habe ich mich intensiv mit der Engine Godot beschäftigt – vom Node-System über Signale bis hin zur Arbeit mit Ressourcen wie `.tres`- und `.json`-Dateien. Auch die Implementierung von Audio, das Arbeiten mit UI-/Canvas-Layern sowie die Nutzung von Tools wie Aseprite oder Obsidian haben mein Wissen erweitert.
+Technisch habe ich mich intensiv mit der Engine Godot beschäftigt – vom Node-System über Signale bis hin zur Arbeit mit Ressourcen wie `.tres`- und `.json`-Dateien. Auch die Implementierung von Audio, das Arbeiten mit UI-/Canvas-Layern.
+ Besonders viel neue Erfahrungen (abgesehen von Godot) hab ich mit den Tool Aseprite machen können. Ich hatte mir vor ein paar Jahren bereits mal Pixel Art Programme angeschaut und habe mich etwas durchprobiert. Aseprite hatte ich noch nicht ausprobiert und ich muss sagen das Tool macht wirklich Spaß sobald man die Basics drauf hat.
+ Obsidian habe ich vor dem Projekt bereits für einige Mitschriebe und Zusammenfassungen benutzt da mit die Link Funktion und die Graph Ansicht sehr zugesagt haben. Auch für das leiten von Tabletop Rollenspielen hab ich das Programm schon benutzt aber ich muss sagen bei der Benutzung als Projektmanagement Tool habe ich noch einiges über das Programm lernen können. z.B. hab ich meinen Uni Vault inzwischen auch in einer Cloud, und auch das Kanban Board Plugin werd ich weiterhin benutzten.
 
 Meine Schwerpunkte im Projekt lagen unter anderem auf dem Projektmanagement, der Verwaltung des Repositories, sowie der Entwicklung der Spiellogik und Objektinteraktionen (gemeinsam mit Daniel und Pierre).
 Ich habe außerdem am NPC- und Environment-Design mitgearbeitet, Dialoge geschrieben und überarbeitet (mit Daniel und Mareike). 
