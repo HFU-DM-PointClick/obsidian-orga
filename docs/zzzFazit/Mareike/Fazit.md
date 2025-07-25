@@ -3,4 +3,4 @@ General war es cool, an einem Projekt wie diesem zu arbeiten. Die Gruppenarbeit 
 Teilweise hatte ich das Gefühl, dass Recherchen und Einwürfe nicht unbedingt wahrgenommen wurden, aber das ist vermutlich auch Teil der Kommunikation. Teils hätte ich auch Dinge schneller machen können oder um Hilfe bitten, aber das ist etwas, woran ich auch generell noch arbeiten muss. 
 
   
-Von der gesamten Einschätzung her würde ich sagen, ich bin vermutlich nicht auf dem Level der andern allein durch die Tatsache, dass ich nicht eine Zeile Code geschrieben habe, aber ich habe Definitiv Aufwand in die Kreative Umsetzung gesteckt, sowohl beim Brainstorming der Erstellung der tatsächlichen Geschichte, als auch später beim Design und der Animation, ohne welches das Spiel nicht so gut funktionieren würde.
+Von der gesamten Einschätzung her würde ich sagen, ich bin vermutlich nicht auf dem Level der andern allein durch die Tatsache, dass ich nicht eine Zeile Code geschrieben habe, aber ich habe Definitiv Aufwand in die Kreative Umsetzung gesteckt, sowohl beim Brainstorming der Erstellung der tatsächlichen Geschichte, als auch später beim Design und der Animation. 
