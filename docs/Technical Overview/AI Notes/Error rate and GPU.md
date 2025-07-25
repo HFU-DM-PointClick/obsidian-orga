@@ -1,68 +1,72 @@
 #### **1. Llama 2**
 
-- **Fehlerrate:**
-    - Höhere Rate an "false refusals" im Vergleich zu neueren Modellen wie Llama 3. Es lehnt manchmal Anfragen ab, die es eigentlich beantworten könnte.
-- **GPU-Anforderungen:**
-    - **Empfohlen:** NVIDIA GPUs mit mindestens 12 GB VRAM (z. B. RTX 3060 oder besser).
-    - Funktioniert auch auf AMD GPUs, wenn kompatible Bibliotheken wie ROCm verwendet werden.
-    - Für kleinere Modelle (7B) ist CPU-basierte Nutzung möglich, aber langsamer.
+- **Error Rate:**
+    - Higher rate of "false refusals" compared to newer models like Llama 3. It sometimes rejects requests it could technically fulfill.
+- **GPU Requirements:**
+    - **Recommended:** NVIDIA GPUs with at least 12 GB VRAM (e.g., RTX 3060 or better).
+    - Also works with AMD GPUs if compatible libraries like ROCm are used.
+    - For smaller models (7B), CPU-based use is possible but significantly slower.
 
 ---
 
 #### **2. Llama 3 (Ollama)**
 
-- **Fehlerrate:**
-    - Reduziert die Fehlerrate um mehr als ein Drittel im Vergleich zu Llama 2, was zuverlässigere Antworten liefert.
-- **GPU-Anforderungen:**
-    - Ollama ist für CPU- und GPU-basierte Nutzung optimiert.
-    - **Empfohlen:** NVIDIA GPUs mit mindestens 12 GB VRAM (RTX 3060 oder besser).
-    - Dank Quantisierung (z. B. 4-Bit) funktioniert Llama 3 auch auf Geräten mit eingeschränktem Speicher effizient.
+- **Error Rate:**
+    - Reduces the error rate by more than one-third compared to Llama 2, resulting in more reliable responses.
+- **GPU Requirements:**
+    - Ollama is optimized for both CPU and GPU usage.
+    - **Recommended:** NVIDIA GPUs with at least 12 GB VRAM (RTX 3060 or better).
+    - Thanks to quantization (e.g., 4-bit), Llama 3 runs efficiently even on devices with limited memory.
 
 ---
 
 #### **3. GPT-J**
 
-- **Fehlerrate:**
-    - Moderat, niedriger als bei Llama 2, aber weniger leistungsfähig bei komplexen Anfragen.
-- **GPU-Anforderungen:**
-    - **Empfohlen:** NVIDIA GPUs mit 12 GB VRAM oder mehr.
-    - Unterstützt AMD GPUs mit ROCm, jedoch eingeschränkt.
-    - Für kleinere Aufgaben kann auch eine CPU genutzt werden, ist aber deutlich langsamer.
+- **Error Rate:**
+    - Moderate, lower than Llama 2, but less capable when handling complex queries.
+- **GPU Requirements:**
+    - **Recommended:** NVIDIA GPUs with 12 GB VRAM or more.
+    - AMD GPUs are supported via ROCm, though with limitations.
+    - For lightweight tasks, CPU use is possible, but performance is significantly slower.
 
 ---
 
 #### **4. GPT-NeoX**
 
-- **Fehlerrate:**
-    - Ähnlich wie GPT-J, aber bessere Ergebnisse bei komplexen Anfragen.
-- **GPU-Anforderungen:**
-    - **Mindestens:** NVIDIA GPUs mit 20 GB VRAM (z. B. RTX A5000 oder besser).
-    - Für große Modelle (20B) ist Multi-GPU-Support erforderlich.
-    - Unterstützung für AMD GPUs ist experimentell.
+- **Error Rate:**
+    - Similar to GPT-J but performs better on complex queries.
+- **GPU Requirements:**
+    - **Minimum:** NVIDIA GPUs with 20 GB VRAM (e.g., RTX A5000 or higher).
+    - For large models (20B), multi-GPU support is required.
+    - AMD GPU support is experimental.
 
 ---
 
 #### **5. ChatGPT (GPT-4 API)**
 
-- **Fehlerrate:**
-    - Sehr niedrig, bietet präzise und zuverlässige Antworten.
-- **GPU-Anforderungen:**
-    - Keine lokalen GPU-Anforderungen, da die Verarbeitung vollständig in der Cloud erfolgt.
-    - Hardware auf Nutzerseite ist minimal (jedes internetfähige Gerät reicht aus).
+- **Error Rate:**
+    - Very low, offering precise and reliable responses.
+- **GPU Requirements:**
+    - No local GPU required, as all processing is handled in the cloud.
+    - Minimal hardware on the client side (any internet-capable device is sufficient).
 
 ---
 
-### **Lösungsvorschläge für die Fehlerrate**
+### **Solutions for Reducing Error Rate**
 
-1. **Feintuning:**
-    
-    - Besonders bei Llama 2 oder GPT-J sinnvoll, um die Fehlerrate zu reduzieren. Erfordert jedoch NVIDIA GPUs mit mindestens 12 GB VRAM. Aufwand: Hoch.
-2. **Fallback-Logik im Spiel:**
-    
-    - Abfangen von Ablehnungen durch alternative Anfragen oder Standardantworten. Aufwand: Mittel.
-3. **Wechsel zu Llama 3 (Ollama):**
-    
-    - Reduziert die Fehlerrate ohne zusätzlichen Entwicklungsaufwand. Ollama optimiert die Modelle für NVIDIA GPUs und bietet effiziente Lösungen für kleinere Geräte. Aufwand: Niedrig.
+1. **Fine-tuning:**
 
----
+    - Especially useful for Llama 2 or GPT-J to reduce false refusals.
+    - Requires NVIDIA GPUs with at least 12 GB VRAM.
+    - Effort: High
 
+2. **Fallback logic in the game:**
+
+    - Catch rejections by rephrasing requests or providing default responses.
+    - Effort: Medium
+
+3. **Switch to Llama 3 (Ollama):**
+
+    - Reduces error rate without additional development effort.
+    - Ollama optimizes models for NVIDIA GPUs and offers efficient solutions for low-spec devices.
+    - Effort: Low

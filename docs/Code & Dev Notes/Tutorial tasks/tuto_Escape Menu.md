@@ -1,1 +1,0 @@
-We need a simple menu that pauses the game, allows the player to save or load a save point, and provides an option to quit the game.

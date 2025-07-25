@@ -1,2 +1,0 @@
-[The Magnus Archives](https://the-magnus-archives.fandom.com/wiki/The_Magnus_Archives_Wikia) (symbols of the fears are generally great fear symbols)
-	Podcast about Jonathan Sims who finds himself trapped in a world of entities that feed on the fears of animals and humans, starting off as simple spooky stories, escalating into eldritch horror

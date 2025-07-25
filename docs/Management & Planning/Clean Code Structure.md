@@ -1,2 +1,0 @@
-- some calls are at the wrong position
-- the button interaction script is attached to the clock and not to the office scene

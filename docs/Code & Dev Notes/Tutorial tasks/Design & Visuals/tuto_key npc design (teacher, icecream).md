@@ -4,7 +4,7 @@ As listed in [[tuto_school ()]] and [[tuto_icecreamshop ()]], we need a design f
 - First step is the colleague in the hallway.
 - And create a list of all needed NPCs.
 
-[[John Officer (WIP)]] --> colleague in hallway
+[[John Officer]] --> colleague in hallway
 
 List: (tbd in obsidian):
 - Teacher

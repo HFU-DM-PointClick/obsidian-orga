@@ -8,27 +8,19 @@ kanban-plugin: board
 
 - [ ] Define a fighting system (technical)
 - [ ] [[ingame Voice lines (Text) ()]]
+- [ ] [[tuto_Escape Menu]]
+- [ ] (BUG) Grafiken zerschossen bei AMD Grafikkarten (Daniel)
+- [ ] (BUG) Files are created on start at wrong folder (Daniel)
 
 
 ## ToDo
 
-- [ ] [[tuto_interrogation mechanics]]
-- [ ] [[tuto_Escape Menu]]
-- [ ] KI Dialog in Godot mit dem Dialogmanager (Agon)
-- [ ] [[tuto_design all items]] ()
 
 
 ## In Progress
 
-- [ ] [[tuto_evidence board mechanik und design]]
-- [ ] [[tuto_implementierung vom Main character]] (Agon)
-- [ ] [[tuto_integrate_inventory]] (Lukas)
-- [ ] [[tuto_office inside cabin ()]] (Mareike)
 - [ ] [[Obsidian cleanup]]
-- [ ] [[Audio]]
 - [ ] [[Fazit_schreiben]]
-- [ ] [[tuto_interrogation_room_design]] (Mareike)
-- [ ] [[evidence_board_flags]] (Daniel)
 
 
 ## Need Help
@@ -37,6 +29,19 @@ kanban-plugin: board
 
 ## Complete
 
+- [ ] [[tuto_implement_map_navigation]] (Agon)
+- [ ] [[tuto_save_load_functionality]] (Agon)
+- [ ] Implement [[inventory management]] system (Agon)
+- [ ] [[tuto_interrogation mechanics]]
+- [ ] [[tuto_design all items]] ()
+- [ ] [[tuto_evidence board mechanik und design]] (design is missing / no time)
+- [ ] KI Dialog in Godot mit dem Dialogmanager (Agon)
+- [ ] [[tuto_integrate_inventory]] (Lukas)
+- [ ] [[tuto_implementierung vom Main character]] (Agon)
+- [ ] [[tuto_office inside cabin ()]] (Mareike)
+- [ ] [[tuto_interrogation_room_design]] (Mareike)
+- [ ] [[evidence_board_flags]] (Daniel)
+- [ ] [[Audio]]
 - [ ] [[tuto_icecreamshop ()]]
 - [ ] [[tuto_school ()]]
 - [ ] [[tuto_forest_cabin]]
@@ -62,7 +67,7 @@ kanban-plugin: board
 - [ ] [[tuto_graphics for the lock picking]] (Pierre)
 - [ ] Finish [[GUI]] layout (Daniel)
 - [ ] Rough [[GUI]] Layout (Daniel)
-- [ ] tuto_[[John Officer (WIP)]] design (Lukas)
+- [ ] tuto_[[John Officer]] design (Lukas)
 - [ ] [[tuto_map]] (Pierre)
 - [ ] [[tuto_Main Character Design]] (Mareike)
 - [ ] [[Clean Code Structure]] (Agon)
@@ -126,11 +131,6 @@ kanban-plugin: board
 
 ## On Hold
 
-- [ ] Implement [[inventory management]] system (Agon)
-- [ ] [[tuto_save_load_functionality]] (Agon)
-- [ ] [[tuto_implement_map_navigation]] (Agon)
-- [ ] (BUG) Grafiken zerschossen bei AMD Grafikkarten (Daniel)
-- [ ] (BUG) Files are created on start at wrong folder (Daniel)
 
 
 
