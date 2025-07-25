@@ -2,3 +2,4 @@
 - Neues Item wurde erstellt -> gepixelt und integriert (Buch in der Cabin)
 - Bug fixes zum Aufheben der Items
 - Dokument zu unserer Vorstellung der geplanten Implementierung der Audio in [[Expectations]]
+- Readme für das Game erstellt
