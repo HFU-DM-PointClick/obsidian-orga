@@ -7,7 +7,7 @@ kanban-plugin: board
 ## Backlog
 
 - [ ] Define a fighting system (technical)
-- [ ] [[ingame Voice lines (Text) ()]]
+- [ ] [[ingame Voice lines]]
 - [ ] [[tuto_Escape Menu]]
 - [ ] (BUG) Grafiken zerschossen bei AMD Grafikkarten (Daniel)
 - [ ] (BUG) Files are created on start at wrong folder (Daniel)
