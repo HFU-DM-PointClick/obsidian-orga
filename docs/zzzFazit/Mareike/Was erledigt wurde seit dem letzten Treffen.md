@@ -1,0 +1,6 @@
+- Verhör-Design
+- Charakterdesign NPCs Verhör
+- Animationen NPCs Verhör
+- Skizze Konzept Hütte innen
+- Erweitern/Aufbereiten Grundgerüst Hütte innen (inkl Licht und Schatten)
+- Kommunikation (jemanden finden, um die Tür aufzumachen und anschließend Stellung halten)
