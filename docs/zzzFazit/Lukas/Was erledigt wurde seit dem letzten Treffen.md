@@ -1,0 +1,5 @@
+- Einige BUG fixes z.B. bezüglich der Handy UI und Interaction Buttons
+- Dialog und Logik für die Cabin Szene hinzugefügt
+- Übergang zwischen Cabin und Interrogation
+- Endscreen nachdem die Interrogations abgeschlossen sind 
+- Thanks for playing geschrieben
